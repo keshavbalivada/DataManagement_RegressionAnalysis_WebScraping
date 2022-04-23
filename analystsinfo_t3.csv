@@ -1,0 +1,388 @@
+analyst_id,analyst_names,roles,membersince,confidence_score,errorrate,accuracy,points,points_per_estimate,stocks,pending_estimates
+Roth_14,John M. White,"Financial Professional, Sell Side, Broker",15-Oct,6.1,38.00%,42%,14,3.5,4,20
+benjenholdings,Ben Jen,"Financial Professional, Independent, Independent Research",16-Jul,8.3,16.00%,60%,"23,902",14.1,"1,701",13
+BillB1210,Bill,"Non Professional, Financials, Professional Services",14-Jul,8.4,16.60%,59%,"25,559",13.6,"1,877",28
+Analyst_8049250,Analyst_8049250,"Non Professional, Other, Other",21-Jul,7.1,-,-,-,-,-,0
+Medic2525,Medic2525,"Non Professional, Health Care, Health Care Providers & Services",19-Apr,8.3,28.00%,24%,-53,-5.3,10,2
+Analyst_4544960,"Mike Kelly, CFA","Financial Professional, Sell Side, Broker",15-Oct,6.2,-,-,-,-,-,0
+R_C12R,Ron,"Non Professional, Industrials, Aerospace & Defense",16-May,8.1,16.10%,55%,304,14.5,21,6
+GHS_21,John Aschenbeck,"Financial Professional, Sell Side, Broker",18-Jul,2.7,-,-,-,-,-,0
+Cantor_22,Alethia Young,"Financial Professional, Sell Side, Broker",18-Sep,4.9,35.80%,30%,-93,-2.9,35,34
+Needham_45,Joseph Stringer,"Financial Professional, Sell Side, Broker",20-Sep,6.4,45.80%,40%,-14,-2.3,12,17
+Analyst_1561047,Analyst_1561047,", , ",19-Dec,6.7,36.80%,27%,-26,-2.9,9,0
+Analyst_5060911,Analyst_5060911,", , ",20-Aug,5.4,-,-,-,-,-,0
+Needham_5,Alan Carr,"Financial Professional, Sell Side, Broker",14-Jan,6.5,-,-,-,-,-,0
+Analyst_5883186,Analyst_5883186,"Non Professional, Consumer Staples, Household & Personal Products",21-Apr,8.7,13.70%,61%,"2,634",18,146,24
+Momocow,Momocow,"Non Professional, Financials, Insurance",20-Nov,8.6,13.30%,59%,716,11.9,60,0
+Catooch,Ken Catucci,"Non Professional, Financials, Capital Markets",21-Sep,8.3,12.40%,59%,"11,560",14.9,778,27
+GHS_41,"Mark Weintraub, CFA","Financial Professional, Sell Side, Broker",21-Jun,7,10.00%,38%,29,5.5,8,11
+Suntrust_109,Rohit Seth,"Financial Professional, Sell Side, Broker",20-Aug,4.9,13.00%,16%,-33,-6,7,17
+Suntrust_38,Rohit Seth,"Financial Professional, Sell Side, Broker",15-Mar,5.3,18.80%,24%,-37,-8.2,7,7
+Analyst_2906477,Analyst_2906477,"Non Professional, Other, Other",21-May,7,-,-,-,-,-,0
+Analyst_1802116,Analyst_1802116,"Non Professional, Other, Other",21-Jul,7.3,-,-,-,-,-,0
+suburbanaces,suburbanaces,"Non Professional, Consumer Discretionary, Hotels Restaurants & Leisure",21-May,8.3,4.00%,65%,43,21.5,2,0
+Ocelogic,Ocelogic,"Non Professional, Information Technology, Internet Software & Services",15-Nov,8.2,18.80%,72%,139,15.4,9,0
+Analyst_389178,Analyst_389178,"Non Professional, Other, Other",21-Jan,7.3,-,-,-,-,-,0
+Analyst_6452210,Analyst_6452210,"Non Professional, Consumer Discretionary, Household Durables",20-Jun,9,-,-,-,-,-,0
+jean_acciari,jean_acciari,"Non Professional, Telecommunication Services, Diversified Telecommunications",18-Mar,8.4,-,-,-,-,-,0
+Analyst_3358941,Analyst_3358941,"Non Professional, Consumer Staples, Personal Products",19-Apr,7.2,62.00%,14%,-33,-22,2,0
+Analyst_539247,Analyst_539247,"Non Professional, Other, Other",21-Jan,6.9,-,-,-,-,-,0
+GHS_24,Mark Weintraub,"Financial Professional, Sell Side, Broker",18-Oct,4.8,22.90%,9%,-71,-15.8,7,9
+Dominantstock,Dominantstock,"Financial Professional, Buy Side, Asset Manager",17-Jun,3.2,25.80%,21%,"-1,041",-7.8,136,215
+Analyst_398345,Analyst_398345,", , ",20-Jul,6.5,10.50%,45%,31,10.3,3,2
+andluger,andluger,"Non Professional, Financials, Diversified Financial Services",18-Oct,8,11.70%,55%,72,10.3,7,0
+Suntrust_106,Matthew Thornton,"Financial Professional, Sell Side, Broker",20-Aug,6.9,13.50%,43%,91,9.6,13,26
+Katzup,Bob Katz,"Financial Professional, Independent, Independent Research",16-Feb,8.6,31.00%,78%,20,20,1,0
+Spekoliunas,Zilvinas Speteliunas,"Financials, , ",16-Oct,8.8,-,-,-,-,-,0
+serpyou,Zilvinas Speteliunas,"Financials, , ",16-Oct,8.8,-,-,-,-,-,0
+Suntrust_46,Zilvinas Speteliunas,"Financials, , ",16-Oct,8.8,-,-,-,-,-,0
+shendricks,Zilvinas Speteliunas,"Financials, , ",16-Oct,8.8,-,-,-,-,-,0
+Old_Mayor,Zilvinas Speteliunas,"Financials, , ",16-Oct,8.8,-,-,-,-,-,0
+Natallia,Zilvinas Speteliunas,"Financials, , ",16-Oct,8.8,-,-,-,-,-,0
+Bill_Maurer,Zilvinas Speteliunas,"Financials, , ",16-Oct,8.8,-,-,-,-,-,0
+AAFED,Zilvinas Speteliunas,"Financials, , ",16-Oct,8.8,-,-,-,-,-,0
+JohnCart,Zilvinas Speteliunas,"Financials, , ",16-Oct,8.8,-,-,-,-,-,0
+Analyst_8790220,Zilvinas Speteliunas,"Financials, , ",16-Oct,8.8,-,-,-,-,-,0
+mikesmurf,Zilvinas Speteliunas,"Financials, , ",16-Oct,8.8,-,-,-,-,-,0
+larrylai,Zilvinas Speteliunas,"Financials, , ",16-Oct,8.8,-,-,-,-,-,0
+PM,Zilvinas Speteliunas,"Financials, , ",16-Oct,8.8,-,-,-,-,-,0
+Analyst_7579453,Zilvinas Speteliunas,"Financials, , ",16-Oct,8.8,-,-,-,-,-,0
+panda_w,Zilvinas Speteliunas,"Financials, , ",16-Oct,8.8,-,-,-,-,-,0
+loopie,Zilvinas Speteliunas,"Financials, , ",16-Oct,8.8,-,-,-,-,-,0
+dalton,Zilvinas Speteliunas,"Financials, , ",16-Oct,8.8,-,-,-,-,-,0
+BaooJee,Zilvinas Speteliunas,"Financials, , ",16-Oct,8.8,-,-,-,-,-,0
+Analyst_1839435,Zilvinas Speteliunas,"Financials, , ",16-Oct,8.8,-,-,-,-,-,0
+ProspectPark,Zilvinas Speteliunas,"Financials, , ",16-Oct,8.8,-,-,-,-,-,0
+Analyst_8583071,Zilvinas Speteliunas,"Financials, , ",16-Oct,8.8,-,-,-,-,-,0
+Analyst_5389127,Zilvinas Speteliunas,"Financials, , ",16-Oct,8.8,-,-,-,-,-,0
+Analyst_2858786,Zilvinas Speteliunas,"Financials, , ",16-Oct,8.8,-,-,-,-,-,0
+Showkz99,Zilvinas Speteliunas,"Financials, , ",16-Oct,8.8,-,-,-,-,-,0
+Analyst_1486360,Zilvinas Speteliunas,"Financials, , ",16-Oct,8.8,-,-,-,-,-,0
+Analyst_6414753,Zilvinas Speteliunas,"Financials, , ",16-Oct,8.8,-,-,-,-,-,0
+Analyst_1274826,Zilvinas Speteliunas,"Financials, , ",16-Oct,8.8,-,-,-,-,-,0
+Analyst_3031608,Zilvinas Speteliunas,"Financials, , ",16-Oct,8.8,-,-,-,-,-,0
+Analyst_8367894,Zilvinas Speteliunas,"Financials, , ",16-Oct,8.8,-,-,-,-,-,0
+Analyst_5277575,Zilvinas Speteliunas,"Financials, , ",16-Oct,8.8,-,-,-,-,-,0
+Analyst_883247,Zilvinas Speteliunas,"Financials, , ",16-Oct,8.8,-,-,-,-,-,0
+Surbiton,Zilvinas Speteliunas,"Financials, , ",16-Oct,8.8,-,-,-,-,-,0
+Analyst_3706437,Zilvinas Speteliunas,"Financials, , ",16-Oct,8.8,-,-,-,-,-,0
+bdc32,Zilvinas Speteliunas,"Financials, , ",16-Oct,8.8,-,-,-,-,-,0
+Cyflops,Zilvinas Speteliunas,"Financials, , ",16-Oct,8.8,-,-,-,-,-,0
+Megaannum,Zilvinas Speteliunas,"Financials, , ",16-Oct,8.8,-,-,-,-,-,0
+Plu,Zilvinas Speteliunas,"Financials, , ",16-Oct,8.8,-,-,-,-,-,0
+mdainvest,Zilvinas Speteliunas,"Financials, , ",16-Oct,8.8,-,-,-,-,-,0
+Neil_Martin,Zilvinas Speteliunas,"Financials, , ",16-Oct,8.8,-,-,-,-,-,0
+UdallTechStrat,Zilvinas Speteliunas,"Financials, , ",16-Oct,8.8,-,-,-,-,-,0
+zsljulius,Zilvinas Speteliunas,"Financials, , ",16-Oct,8.8,-,-,-,-,-,0
+Parmigianino,Zilvinas Speteliunas,"Financials, , ",16-Oct,8.8,-,-,-,-,-,0
+Damian,Zilvinas Speteliunas,"Financials, , ",16-Oct,8.8,-,-,-,-,-,0
+yiss217,Zilvinas Speteliunas,"Financials, , ",16-Oct,8.8,-,-,-,-,-,0
+r2theex,Zilvinas Speteliunas,"Financials, , ",16-Oct,8.8,-,-,-,-,-,0
+Aaronbobby,Zilvinas Speteliunas,"Financials, , ",16-Oct,8.8,-,-,-,-,-,0
+pele85,Zilvinas Speteliunas,"Financials, , ",16-Oct,8.8,-,-,-,-,-,0
+Tappa69,Zilvinas Speteliunas,"Financials, , ",16-Oct,8.8,-,-,-,-,-,0
+Analyst_334150,Zilvinas Speteliunas,"Financials, , ",16-Oct,8.8,-,-,-,-,-,0
+Star,Zilvinas Speteliunas,"Financials, , ",16-Oct,8.8,-,-,-,-,-,0
+Maddy1214,Zilvinas Speteliunas,"Financials, , ",16-Oct,8.8,-,-,-,-,-,0
+Analyst_4898690,Zilvinas Speteliunas,"Financials, , ",16-Oct,8.8,-,-,-,-,-,0
+Hikerd,Zilvinas Speteliunas,"Financials, , ",16-Oct,8.8,-,-,-,-,-,0
+wlp3rd,Zilvinas Speteliunas,"Financials, , ",16-Oct,8.8,-,-,-,-,-,0
+arpan69,Zilvinas Speteliunas,"Financials, , ",16-Oct,8.8,-,-,-,-,-,0
+Analyst_9387580,Zilvinas Speteliunas,"Financials, , ",16-Oct,8.8,-,-,-,-,-,0
+francescozunino,Zilvinas Speteliunas,"Financials, , ",16-Oct,8.8,-,-,-,-,-,0
+rama2050,Zilvinas Speteliunas,"Financials, , ",16-Oct,8.8,-,-,-,-,-,0
+jfffrmm,Zilvinas Speteliunas,"Financials, , ",16-Oct,8.8,-,-,-,-,-,0
+Aitvaras,Zilvinas Speteliunas,"Financials, , ",16-Oct,8.8,-,-,-,-,-,0
+Analyst_3713698,Zilvinas Speteliunas,"Financials, , ",16-Oct,8.8,-,-,-,-,-,0
+Analyst_904827,Zilvinas Speteliunas,"Financials, , ",16-Oct,8.8,-,-,-,-,-,0
+pureoptions,nextcandles,"Financial Professional, Independent, Independent Research",13-May,5.5,22.70%,35%,-16,-0.5,34,26
+yorel,yorel,"Non Professional, Academia, ",21-Jul,7.8,-,-,-,-,-,0
+Analyst_2297174,Analyst_2297174,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Analyst_9910177,Analyst_9910177,"Non Professional, Financials, Consumer Finance",20-Aug,6.9,-,-,-,-,-,0
+Canaccord_188,David Hynes Jr.,"Financial Professional, Sell Side, Broker",19-Mar,4.1,31.90%,28%,20,0.7,28,156
+Phil_C,Phil_C,"Non Professional, Information Technology, Software",20-Apr,8.1,22.40%,59%,444,15.9,28,75
+Canaccord_166,T. Michael Walkley,"Financial Professional, Sell Side, Broker",19-Mar,4.7,26.90%,18%,-136,-8,18,100
+Needham_26,Scott Berg,"Financial Professional, Sell Side, Broker",15-Sep,4.1,29.70%,24%,-53,-2.5,21,111
+Suntrust_93,Terry Tillman,"Financial Professional, Sell Side, Broker",20-Aug,4.4,22.20%,31%,14,0.9,20,98
+Oppenheimer_17,Andrew Uerkwitz,"Financial Professional, Sell Side, Broker",14-Feb,5.4,34.40%,14%,-38,-15.2,5,4
+Analyst_8459950,Analyst_8459950,", , ",18-Oct,7.5,-,-,-,-,-,0
+Suntrust_60,Terry Tillman,"Financial Professional, Sell Side, Broker",17-Jun,3.8,12.60%,15%,-11,-22,1,0
+Analyst_5300562,Analyst_5300562,"Non Professional, Information Technology, Software",18-Oct,7.8,14.70%,54%,86,9.6,9,2
+Analyst_7749299,Analyst_7749299,"Non Professional, Other, Other",21-Oct,6.9,51.20%,36%,6,6,1,0
+Needham_33,Jack Andrews,"Financial Professional, Sell Side, Broker",17-Jul,5.6,32.40%,47%,104,8.3,18,104
+Analyst_9374239,Analyst_9374239,"Non Professional, Utilities, Gas Utilities",14-Dec,6.7,12.60%,59%,106,9.6,11,1
+Analyst_8282636,Analyst_8282636,"Non Professional, Other, Other",21-May,7.1,-,-,-,-,-,0
+lernout,lernout,"Non Professional, Financials, Thrifts & Mortgage Finance",19-May,7.6,14.50%,44%,26,2.6,10,1
+Analyst_9372808,Analyst_9372808,"Financial Professional, Independent, Independent Research",21-Mar,8,27.10%,54%,24,3,8,0
+Analyst_8540090,Analyst_8540090,"Non Professional, Other, Other",21-Mar,6.9,-,-,-,-,-,0
+Calvin_S,Calvin_S,"Non Professional, Information Technology, Communications Equipment",19-May,8.8,-,-,-,-,-,0
+Analyst_5039344,Analyst_5039344,"Non Professional, Industrials, Machinery",17-Oct,8.6,30.00%,60%,115,11.5,10,1
+Buck_355861,Buck_355861,"Financial Professional, Sell Side, Broker",15-Aug,5.7,34.90%,2%,-107,-26.8,4,2
+Analyst_2453690,Analyst_2453690,"Non Professional, Health Care, Health Care Technology",13-Dec,8.3,16.60%,63%,124,17.7,7,0
+Analyst_8268390,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+TheRod,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+Josephine,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+Analyst_7236391,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+VPJS,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+Needham_34,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+Canaccord_285,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+Oppenheimer_30,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+Kimbo,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+Suntrust_44,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+Canaccord_283,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+Canaccord_164,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+Needham_12,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+Saleh_1973,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+srehman74,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+Analyst_8113162,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+GHS_52,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+Analyst_8364807,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+Analyst_5437074,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+rrg1964,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+Thobanis,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+ixos,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+Analyst_7968069,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+Analyst_1487231,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+352REALLUX,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+Wx_Torn,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+vpzhig,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+Roth_8,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+Analyst_2088276,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+Oppenheimer_74,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+TH312556,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+Analyst_273114,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+HenrikS,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+Buck_6966,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+SOLO,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+Analyst_3353938,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+Griffin_5,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+tibby_t,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+ersan,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+Suntrust_57,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+MM126352,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+GHS_12,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+GHS_39,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+GHS_29,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+Suntrust_2,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+GHS_8,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+coachtui,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+Abbasmash,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+Oppenheimer_27,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+Analyst_958068,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+Analyst_4321238,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+Analyst_3038787,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+Analyst_6143517,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+Analyst_785028,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+Analyst_7034161,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+Analyst_3098981,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+Analyst_14137,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+Analyst_6661262,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+R,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+InNeedOfAssets,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+Analyst_4331949,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+Analyst_7174806,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+miros,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+Analyst_7292486,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+Analyst_umbi,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+Analyst_703153,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+Analyst_9001123,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+Roth_43,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+Roth_5,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+Roth_42,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+Needham_42,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+Analyst_BoyBoy,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+DerBrandi,Analyst_8268390,"Financial Professional, Sell Side, Broker",17-Jul,5.7,-,-,-,-,-,0
+GHS_44,"Michael Harrison, CFA","Financial Professional, Sell Side, Broker",21-Jun,7.3,6.30%,54%,131,6.9,19,143
+Analyst_4544968,"Michael Harrison, CFA","Financial Professional, Sell Side, Broker",15-Oct,7,12.40%,16%,-180,-9.5,19,94
+Bramdehaas,Bramdehaas,"Financial Professional, Buy Side, Other",16-Jun,5.1,28.50%,14%,-20,-10,2,3
+Analyst_4339425,Analyst_4339425,"Non Professional, Other, Other",21-Jul,7.2,-,-,-,-,-,0
+tlm1tlm,tlm1tlm,"Non Professional, Information Technology, Paper & Forest Products",17-May,7.4,-,-,-,-,-,0
+Analyst_9614248,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Analyst_3653475,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Analyst_4566188,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Analyst_2045641,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Analyst_4642668,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+RWDKPD,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+thatsarahlewis,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Analyst_8717904,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Ali_Baba,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Pearl_1,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Analyst_3354713,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Analyst_8740570,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Analyst_11375,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Analyst_5984702,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Analyst_8481310,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Analyst_7624722,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Canaccord_163,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Cantor_20,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Needham_56,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Suntrust_58,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Suntrust_111,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+GHS_4,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+upandtotheright,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Analyst_JPMac,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Oppenheimer_63,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+nsdtrading1970,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Analyst_4544967,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Suntrust_9,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Suntrust_83,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+rbrandx,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Analyst_1438644,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Analyst_2072466,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Analyst_4192538,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+SS_GQS,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Bigorangedave,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+James_Gnome,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Analyst_183214,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Reaver,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Analyst_671021,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Analyst_802763,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+euribe25,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+karowlinger,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+OpusPgladiator,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Canaccord_201,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Oppenheimer_45,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+382sr00,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Analyst_387775,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+KenCatucci,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Analyst_2312765,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Roth_10,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Analyst_4976102,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+ghuggie,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Analyst_9845722,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Hoysala,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Analyst_7972627,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Analyst_939213,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Analyst_6127515,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+oakcrest12,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Cantor_37,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Needham_23,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Analyst_4130993,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+LucentOne,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Analyst_1398534,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Pavel_Kaleda,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Analyst_2861660,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+bdarbe11,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Analyst_6708666,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+GHS_48,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+GHS_22,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Analyst_3823532,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Analyst_8202295,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Suntrust_43,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Analyst_5498960,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Analyst_2607819,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+HappyEstimates,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Madmoni,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Suntrust_101,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Suntrust_41,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Analyst_4521605,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Jodylon,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Analyst_5657908,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+agent4036,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+SanilJohn,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Analyst_3974749,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+DebtCliff,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Analyst_7788099,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+swarthy,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Tag_6,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Analyst_2467525,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Analyst_530056,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Analyst_1529790,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Analyst_9307651,Analyst_9614248,"Non Professional, Other, Other",20-Aug,7.2,-,-,-,-,-,0
+Analyst_904827,Analyst_904827,", , ",18-Feb,6.5,-,-,-,-,-,0
+Analyst_7759232,Analyst_7759232,"Non Professional, Other, Other",21-Feb,7.1,-,-,-,-,-,0
+Analyst_3715541,Analyst_3715541,", , ",16-Mar,7,13.70%,46%,250,11.9,21,0
+Analyst_2978829,Analyst_2978829,", , ",19-Feb,7.9,1.10%,63%,32,32,1,3
+arturomonter,arturomonter,"Non Professional, Student, ",20-Aug,4.5,22.50%,6%,-31,-31,1,0
+GregTripple,GregTripple,"Financial Professional, Independent, Independent Research",17-Jul,4.6,15.70%,2%,-57,-28.5,2,2
+Analyst_3900592,Analyst_3900592,", , ",20-Apr,6.4,-,-,-,-,-,0
+Canaccord_205,"Maria Ripps, CFA","Financial Professional, Sell Side, Broker",19-Mar,6.3,10.70%,50%,97,7.8,20,25
+Analyst_7825399,Analyst_7825399,", , ",21-Jan,7.3,11.80%,52%,286,11.9,24,4
+SmitandCo,SmitandCo,"Non Professional, Financials, Diversified Financial Services",19-Mar,7.6,15.40%,60%,714,14,51,2
+Analyst_1701623,Analyst_1701623,"Non Professional, Other, Other",21-Oct,7.2,10.30%,73%,14,14,1,0
+Analyst_5940717,Analyst_5940717,"Non Professional, Consumer Staples, Household & Personal Products",18-Jan,6,39.60%,29%,-14,-14,1,0
+Analyst_7227115,Analyst_7227115,"Non Professional, Information Technology, Software",20-Mar,6.7,26.50%,30%,-60,-4.3,14,19
+Analyst_3343247,Analyst_3343247,", , ",18-Mar,7.7,-,-,-,-,-,0
+Analyst_5300825,Analyst_5300825,"Non Professional, Other, Other",21-May,6.9,-,-,-,-,-,0
+LivefrmDaGutter,LivefrmDaGutter,"Financial Professional, Independent, Independent Research",19-Apr,6,7.20%,34%,-3,-1.5,2,0
+Analyst_1592846,Analyst_1592846,"Non Professional, Consumer Discretionary, Media",20-May,6.2,-,-,-,-,-,0
+Nobby,Nobby,"Non Professional, Information Technology, Internet Software & Services",16-Jul,5.7,16.60%,35%,20,4,5,1
+Analyst_9037722,Analyst_9037722,"Non Professional, Other, Other",21-Feb,6.7,-,-,-,-,-,0
+Analyst_1681857,Analyst_1681857,"Non Professional, Other, Other",21-Feb,6.8,-,-,-,-,-,0
+Analyst_2816520,Analyst_2816520,"Non Professional, Other, Other",20-Oct,7.2,-,-,-,-,-,0
+Analyst_822652,Analyst_822652,"Non Professional, Consumer Staples, Beverages",20-Oct,8,-,-,-,-,-,0
+In_Ernest,In_Ernest,"Financial Professional, Sell Side, Other",20-May,7.5,-,-,-,-,-,0
+Analyst_1306551,Analyst_1306551,"Non Professional, Other, Other",21-Feb,N/A,-,-,-,-,-,0
+Analyst_2910435,Analyst_2910435,", , ",20-Dec,6.9,-,-,-,-,-,0
+ValionCapital,Nicolás Suarez,"Financial Professional, Independent, Independent Research",20-Oct,7,11.50%,52%,"1,235",10,124,2
+Analyst_4716043,Analyst_4716043,"Financial Professional, Independent, Independent Research",18-Jul,2.2,20.50%,27%,-53,-5.3,11,43
+Analyst_9457450,Analyst_9457450,"Non Professional, Other, Other",20-Dec,7,-,-,-,-,-,0
+CashProphet,CashProphet,", , ",20-Oct,7.1,15.50%,66%,20,20,1,1
+Drogness,Drogness,"Non Professional, Student, ",15-Jul,5.5,12.00%,47%,779,7.1,109,349
+Analyst_3993648,Analyst_3993648,", , ",21-Oct,7.6,4.70%,67%,111,18.5,6,0
+WonterC,WonterC,"Non Professional, Student, ",20-Feb,8,13.90%,56%,54,4.9,11,0
+Aldin87,Aldin87,"Non Professional, Academia, ",14-Mar,6.3,11.40%,88%,32,32,1,1
+Analyst_5178017,Analyst_5178017,"Non Professional, Other, Other",17-Jun,8.6,7.20%,64%,343,22.9,15,12
+Analyst_8096201,Analyst_8096201,"Financial Professional, Independent, Independent Research",21-May,7.7,13.00%,48%,123,8.8,14,28
+Suntrust_90,Neal Dingmann,"Financial Professional, Sell Side, Broker",20-Aug,7.7,31.30%,54%,62,5,25,181
+Analyst_3428073,Analyst_3428073,"Non Professional, Other, Other",21-Oct,6.7,42.60%,10%,-7,-7,1,0
+Suntrust_11,Neal Dingmann,"Financial Professional, Sell Side, Broker",13-Dec,5.5,91.00%,1%,-342,-40.2,17,27
+Analyst_7636260,Analyst_7636260,"Non Professional, Other, Other",21-Jun,N/A,-,-,-,-,-,0
+Jen_F,Jen_F,"Financial Professional, Buy Side, Private Equity",20-Aug,8.8,10.90%,61%,"2,402",15.7,153,9
+Analyst_1150343,Analyst_1150343,"Non Professional, Other, Other",21-Jun,7.1,-,-,-,-,-,0
+amargari,am,"Non Professional, Information Technology, IT Services",15-Oct,7.4,-,-,-,-,-,0
+Analyst_8972469,Analyst_8972469,"Non Professional, Other, Other",21-Jul,7.1,-,-,-,-,-,0
+Analyst_7537221,Analyst_7537221,", , ",21-Jan,7,6.30%,72%,14,14,1,0
+Analyst_1195762,Analyst_1195762,", , ",19-Oct,7.2,-,-,-,-,-,0
+Analyst_8385453,Analyst_8385453,", , ",20-Oct,6.4,-,-,-,-,-,0
+Analyst_7053330,Analyst_7053330,"Non Professional, Information Technology, IT Services",21-Apr,7.5,-,-,-,-,-,0
+Analyst_9753755,Analyst_9753755,"Non Professional, Other, Other",21-Mar,7.1,-,-,-,-,-,0
+Analyst_6222748,Analyst_6222748,"Non Professional, Other, Other",21-May,6.9,-,-,-,-,-,0
+Analyst_5619558,Analyst_6222748,"Non Professional, Other, Other",21-May,6.9,-,-,-,-,-,0
+Analyst_3670895,Analyst_6222748,"Non Professional, Other, Other",21-May,6.9,-,-,-,-,-,0
+Analyst_8237749,Analyst_6222748,"Non Professional, Other, Other",21-May,6.9,-,-,-,-,-,0
+Lyubo,Analyst_6222748,"Non Professional, Other, Other",21-May,6.9,-,-,-,-,-,0
+omni,Analyst_6222748,"Non Professional, Other, Other",21-May,6.9,-,-,-,-,-,0
+Analyst_5692657,Analyst_6222748,"Non Professional, Other, Other",21-May,6.9,-,-,-,-,-,0
+shawncooney,Analyst_6222748,"Non Professional, Other, Other",21-May,6.9,-,-,-,-,-,0
+Analyst_1404862,Analyst_6222748,"Non Professional, Other, Other",21-May,6.9,-,-,-,-,-,0
+Analyst_4687655,Analyst_6222748,"Non Professional, Other, Other",21-May,6.9,-,-,-,-,-,0
+Analyst_8523063,Analyst_6222748,"Non Professional, Other, Other",21-May,6.9,-,-,-,-,-,0
+Mgspooner,Analyst_6222748,"Non Professional, Other, Other",21-May,6.9,-,-,-,-,-,0
+Jefferies_57,Analyst_6222748,"Non Professional, Other, Other",21-May,6.9,-,-,-,-,-,0
+Oppenheimer_66,Analyst_6222748,"Non Professional, Other, Other",21-May,6.9,-,-,-,-,-,0
+Needham_14,Analyst_6222748,"Non Professional, Other, Other",21-May,6.9,-,-,-,-,-,0
+Oppenheimer_11,Analyst_6222748,"Non Professional, Other, Other",21-May,6.9,-,-,-,-,-,0
+Oppenheimer_50,Analyst_6222748,"Non Professional, Other, Other",21-May,6.9,-,-,-,-,-,0
+binartech,Analyst_6222748,"Non Professional, Other, Other",21-May,6.9,-,-,-,-,-,0
+Analyst_5274415,Analyst_6222748,"Non Professional, Other, Other",21-May,6.9,-,-,-,-,-,0
+Analyst_8786923,Analyst_6222748,"Non Professional, Other, Other",21-May,6.9,-,-,-,-,-,0
+Analyst_291253,Analyst_6222748,"Non Professional, Other, Other",21-May,6.9,-,-,-,-,-,0
+Analyst_579194,Analyst_6222748,"Non Professional, Other, Other",21-May,6.9,-,-,-,-,-,0
+riccardo_m,Analyst_6222748,"Non Professional, Other, Other",21-May,6.9,-,-,-,-,-,0
+Finance_bro,Analyst_6222748,"Non Professional, Other, Other",21-May,6.9,-,-,-,-,-,0
+rgstocks,Analyst_6222748,"Non Professional, Other, Other",21-May,6.9,-,-,-,-,-,0
+Cwill,Analyst_6222748,"Non Professional, Other, Other",21-May,6.9,-,-,-,-,-,0
+Nils1975,Analyst_6222748,"Non Professional, Other, Other",21-May,6.9,-,-,-,-,-,0
+Analyst_8776243,Analyst_6222748,"Non Professional, Other, Other",21-May,6.9,-,-,-,-,-,0
+ED_ETT_2109695,Analyst_6222748,"Non Professional, Other, Other",21-May,6.9,-,-,-,-,-,0
+rsreina,Analyst_6222748,"Non Professional, Other, Other",21-May,6.9,-,-,-,-,-,0
+Analyst_1536505,Analyst_6222748,"Non Professional, Other, Other",21-May,6.9,-,-,-,-,-,0
+Knute,Analyst_6222748,"Non Professional, Other, Other",21-May,6.9,-,-,-,-,-,0
+Analyst_8532270,Analyst_6222748,"Non Professional, Other, Other",21-May,6.9,-,-,-,-,-,0
+kerryburrell,Analyst_6222748,"Non Professional, Other, Other",21-May,6.9,-,-,-,-,-,0
+Analyst_6693836,Analyst_6222748,"Non Professional, Other, Other",21-May,6.9,-,-,-,-,-,0
+Analyst_7902306,Analyst_6222748,"Non Professional, Other, Other",21-May,6.9,-,-,-,-,-,0
+Helsou,Analyst_6222748,"Non Professional, Other, Other",21-May,6.9,-,-,-,-,-,0
+Analyst_1371755,Analyst_6222748,"Non Professional, Other, Other",21-May,6.9,-,-,-,-,-,0
+BirdT,Analyst_6222748,"Non Professional, Other, Other",21-May,6.9,-,-,-,-,-,0
+dalarcon00,Analyst_6222748,"Non Professional, Other, Other",21-May,6.9,-,-,-,-,-,0
+tzhang042,Analyst_6222748,"Non Professional, Other, Other",21-May,6.9,-,-,-,-,-,0
+Analyst_2781059,Analyst_6222748,"Non Professional, Other, Other",21-May,6.9,-,-,-,-,-,0
+ABDULAZIZ,Analyst_6222748,"Non Professional, Other, Other",21-May,6.9,-,-,-,-,-,0
+DF_5082802,Analyst_6222748,"Non Professional, Other, Other",21-May,6.9,-,-,-,-,-,0
+Vts,Analyst_6222748,"Non Professional, Other, Other",21-May,6.9,-,-,-,-,-,0
+Analyst_4911374,Analyst_6222748,"Non Professional, Other, Other",21-May,6.9,-,-,-,-,-,0
+hood16,Analyst_6222748,"Non Professional, Other, Other",21-May,6.9,-,-,-,-,-,0
+PolishPrince,Analyst_6222748,"Non Professional, Other, Other",21-May,6.9,-,-,-,-,-,0
+DoctorZed,Analyst_6222748,"Non Professional, Other, Other",21-May,6.9,-,-,-,-,-,0

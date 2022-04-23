@@ -1,0 +1,1555 @@
+analyst_id,Ticker,Quarter,Reports,Published,EPS,Revenue
+pureoptions,ADBE,Q4 2021,"Dec 16, 2021 AMC","Apr 12, 2021 240 days ago",3.23,"4,114"
+pureoptions,WGO,Q1 2022,"Dec 17, 2021 BMO","Jan 4, 2021 338 days ago",1.61,867.54
+pureoptions,JPM,Q4 2021,"Jan 14, 2022 BMO","Jul 12, 2021 149 days ago",2.79,"29,910"
+pureoptions,FAST,Q4 2021,"Jan 19, 2022 BMO","Jul 12, 2021 149 days ago",0.4,"1,535"
+pureoptions,CCL,Q4 2021,"Jan 25, 2022 BMO","Apr 12, 2021 240 days ago",-0.77,"3,300"
+pureoptions,CLF,Q4 2021,"Jan 27, 2022 BMO","Apr 12, 2021 240 days ago",0.73,"4,458"
+pureoptions,GM,Q4 2021,"Feb 1, 2022 BMO","May 3, 2021 219 days ago",1.6,"38,010"
+pureoptions,AAPL,Q1 2022,"Feb 1, 2022 AMC","Apr 12, 2021 240 days ago",1.67,"114,470"
+pureoptions,EBAY,Q4 2021,"Feb 2, 2022 AMC","Sep 26, 2021 72 days ago",0.98,"2,832"
+pureoptions,FB,Q4 2021,"Feb 2, 2022 AMC","Jul 28, 2021 133 days ago",4.05,"32,578"
+pureoptions,TSLA,Q4 2021,"Feb 2, 2022 AMC","Jul 26, 2021 135 days ago",1.29,"14,367"
+pureoptions,SNAP,Q4 2021,"Feb 8, 2022 AMC","Apr 20, 2021 232 days ago",0.23,"1,278"
+pureoptions,CMG,Q4 2021,"Feb 8, 2022 AMC","Oct 14, 2021 55 days ago",6.34,"1,860"
+pureoptions,UBER,Q4 2021,"Feb 9, 2022 AMC","Apr 12, 2021 240 days ago",-0.24,"4,782"
+pureoptions,TWTR,Q4 2021,"Feb 10, 2022 AMC","Apr 12, 2021 240 days ago",0.44,"1,516"
+pureoptions,COIN,Q4 2021,"Feb 10, 2022 AMC","May 12, 2021 210 days ago",2.01,"1,099"
+pureoptions,PLTR,Q4 2021,"Feb 15, 2022 BMO","May 10, 2021 212 days ago",0.08,404.9
+pureoptions,LYFT,Q4 2021,"Feb 15, 2022 AMC","Apr 12, 2021 240 days ago",0.05,995.55
+pureoptions,NCLH,Q4 2021,"Feb 24, 2022 BMO","Apr 12, 2021 240 days ago",0.34,959
+pureoptions,IRDM,Q4 2021,"Feb 24, 2022 BMO","Apr 12, 2021 240 days ago",0.01,151.17
+pureoptions,ENPH,Q4 2021,"Mar 1, 2022 AMC","Apr 12, 2021 240 days ago",0.6,378.25
+pureoptions,UPWK,Q4 2021,"Mar 3, 2022 AMC","Apr 12, 2021 240 days ago",-0.02,134.42
+pureoptions,ZM,Q4 2022,"Mar 9, 2022 AMC","Apr 12, 2021 240 days ago",1.03,"1,032"
+pureoptions,ADBE,Q1 2022,"Mar 17, 2022 AMC","Apr 12, 2021 240 days ago",3.49,"4,463"
+pureoptions,CCL,Q1 2022,"Mar 29, 2022 BMO","Apr 12, 2021 240 days ago",-0.01,"4,862"
+pureoptions,TSLA,Q1 2022,"May 4, 2022 AMC","Jul 26, 2021 135 days ago",1.51,"15,757"
+pureoptions,TEAM,Q2 2022,"Jan 20, 2022 AMC",28-Oct-21,0.42,645
+yorel,NOW,Q4 2021,"Jan 26, 2022 AMC",27-Oct-21,1.42,"1,608"
+Analyst_2297174,DT,Q3 2022,"Feb 2, 2022 BMO",27-Oct-21,,235
+Analyst_9910177,ZEN,Q4 2021,"Feb 8, 2022 AMC",28-Oct-21,0.26,371.76
+Canaccord_188,AAIC,Q4 2021,"Feb 8, 2022 AMC","Jan 4, 2021 338 days ago",-0.17,48.18
+Canaccord_188,BILL,Q2 2022,"Feb 10, 2022 AMC","May 7, 2021 215 days ago",-0.02,74.03
+Canaccord_188,TWLO,Q4 2021,"Feb 15, 2022 AMC","May 7, 2020 580 days ago",0.08,520
+Canaccord_188,HUBS,Q4 2021,"Feb 15, 2022 AMC",3-Nov-21,0.54,357.67
+Canaccord_188,SHOP,Q4 2021,"Feb 16, 2022 BMO",28-Oct-21,1.51,"1,298"
+Canaccord_188,AVLR,Q4 2021,"Feb 16, 2022 AMC",4-Nov-21,-0.07,185
+Canaccord_188,FIVN,Q4 2021,"Feb 22, 2022 AMC",8-Nov-21,,165.5
+Canaccord_188,EVBG,Q4 2021,"Feb 22, 2022 AMC","May 5, 2020 581 days ago",0.11,90
+Canaccord_188,DBX,Q4 2021,"Feb 24, 2022 AMC","May 7, 2021 215 days ago",0.36,552.9
+Canaccord_188,BAND,Q4 2021,"Feb 24, 2022 AMC","May 1, 2020 586 days ago",0.11,86
+Canaccord_188,SAIL,Q4 2021,"Feb 24, 2022 AMC","May 8, 2020 579 days ago",0.11,102
+Canaccord_188,WDAY,Q4 2022,"Feb 28, 2022 AMC",18-Nov-21,0.69,"1,363"
+Canaccord_188,CRM,Q4 2022,"Mar 1, 2022 AMC",30-Nov-21,0.73,"7,234"
+Canaccord_188,VEEV,Q4 2022,"Mar 1, 2022 AMC","Dec 2, 2021 6 days ago",0.8,480
+Canaccord_188,ESTC,Q3 2022,"Mar 2, 2022 AMC","Jun 2, 2021 188 days ago",-0.12,202.5
+Canaccord_188,PLAN,Q4 2022,"Mar 2, 2022 AMC","May 26, 2020 561 days ago",-0.03,145
+Canaccord_188,SNOW,Q4 2022,"Mar 2, 2022 AMC",2-Dec-21,0.01,377.99
+Canaccord_188,SPT,Q4 2021,"Mar 2, 2022 AMC",2-Nov-21,-0.07,51.3
+Canaccord_188,ADSK,Q4 2022,"Mar 3, 2022 AMC","May 28, 2021 194 days ago",1.5,"1,221"
+Canaccord_188,XM,Q4 2021,"Mar 8, 2022 AMC","Oct 20, 2021 48 days ago",-0.03,298
+Canaccord_188,OKTA,Q4 2022,"Mar 10, 2022 AMC","May 29, 2020 558 days ago",-0.01,265
+Canaccord_188,UPLD,Q4 2021,"Mar 10, 2022 AMC",3-Nov-21,0.35,75.2
+Canaccord_188,MDB,Q4 2022,"Mar 16, 2022 AMC",6-Dec-21,-0.07,242
+Canaccord_188,ONTF,Q4 2021,"Mar 16, 2022 AMC","Nov 10, 2021 28 days ago",-0.08,52
+Canaccord_188,SMAR,Q4 2022,"Mar 22, 2022 AMC",2-Dec-21,-0.14,152
+Canaccord_188,XM,Q1 2022,"Apr 20, 2022 AMC","Oct 20, 2021 48 days ago",-0.02,319
+Canaccord_188,NOW,Q1 2022,"Apr 27, 2022 AMC",27-Oct-21,1.62,"1,718"
+Canaccord_188,SHOP,Q1 2022,"May 3, 2022 BMO",28-Oct-21,1.13,"1,230"
+Canaccord_188,ZEN,Q1 2022,"May 3, 2022 AMC",18-Nov-21,0.25,384
+Canaccord_188,AAIC,Q1 2022,"May 4, 2022 BMO","Jan 4, 2021 338 days ago",-0.22,49.5
+Canaccord_188,HUBS,Q1 2022,"May 4, 2022 AMC",3-Nov-21,0.42,378
+Canaccord_188,FIVN,Q1 2022,"May 4, 2022 AMC",8-Nov-21,,174.5
+Canaccord_188,TEAM,Q3 2022,"May 5, 2022 AMC",28-Oct-21,0.39,660
+Canaccord_188,AVLR,Q1 2022,"May 11, 2022 AMC",4-Nov-21,-0.07,196
+Canaccord_188,ONTF,Q1 2022,"May 11, 2022 AMC",10-Nov-21,-0.06,53.5
+Canaccord_188,SPT,Q1 2022,"May 11, 2022 AMC",2-Nov-21,-0.06,54.5
+Canaccord_188,DBX,Q1 2022,"May 12, 2022 AMC","May 7, 2021 215 days ago",0.36,562.5
+Canaccord_188,UPLD,Q1 2022,"May 12, 2022 AMC",3-Nov-21,0.33,76
+Canaccord_188,BILL,Q3 2022,"May 12, 2022 AMC","May 7, 2021 215 days ago",0,80.04
+Canaccord_188,DT,Q4 2022,"May 17, 2022 BMO",27-Oct-21,,247.91
+Canaccord_188,CRM,Q1 2023,"May 19, 2022 AMC",30-Nov-21,0.89,"7,250"
+Canaccord_188,SNOW,Q1 2023,"May 25, 2022 AMC",2-Dec-21,-0.02,421.98
+Canaccord_188,VEEV,Q1 2023,"May 26, 2022 AMC",2-Dec-21,,510
+Canaccord_188,ADSK,Q1 2023,"May 26, 2022 AMC","May 28, 2021 194 days ago",1.62,"1,225"
+Canaccord_188,WDAY,Q1 2023,"May 31, 2022 AMC",18-Nov-21,0.72,"1,398"
+Canaccord_188,ESTC,Q4 2022,"Jun 8, 2022 AMC","Jun 2, 2021 188 days ago",-0.12,225
+Canaccord_188,ORCL,Q2 2022,"Dec 9, 2021 AMC","Aug 31, 2021 99 days ago",1.1,"10,350"
+Canaccord_188,TEAM,Q2 2022,"Jan 20, 2022 AMC",29-Oct-21,0.5,650
+Canaccord_188,INTC,Q4 2021,"Jan 26, 2022 AMC","Jul 12, 2021 149 days ago",1.35,"20,500"
+Canaccord_188,NOW,Q4 2021,"Jan 26, 2022 AMC",26-Oct-21,1.55,"1,600"
+Canaccord_188,MSFT,Q2 2022,"Jan 27, 2022 AMC","Oct 20, 2021 49 days ago",2.35,"50,000"
+Phil_C,PYPL,Q4 2021,"Feb 2, 2022 AMC","Oct 7, 2021 62 days ago",1.32,"7,300"
+Phil_C,FB,Q4 2021,"Feb 2, 2022 AMC","Oct 20, 2021 49 days ago",4.5,"35,500"
+Phil_C,TSLA,Q4 2021,"Feb 2, 2022 AMC","Oct 20, 2021 49 days ago",1.6,"15,200"
+Phil_C,GOOGL,Q4 2021,"Feb 2, 2022 AMC",25-Oct-21,26.5,"60,000"
+Phil_C,AMZN,Q4 2021,"Feb 3, 2022 AMC",27-Oct-21,16,"150,000"
+Phil_C,FROG,Q4 2021,"Feb 10, 2022 AMC",2-Nov-21,0.04,60
+Phil_C,COIN,Q4 2021,"Feb 10, 2022 AMC",6-Nov-21,1.9,"1,750"
+Phil_C,PLTR,Q4 2021,"Feb 15, 2022 BMO",8-Nov-21,0.07,425
+Phil_C,TWLO,Q4 2021,"Feb 15, 2022 AMC","Oct 20, 2021 49 days ago",-0.1,750
+Phil_C,HUBS,Q4 2021,"Feb 15, 2022 AMC",2-Nov-21,0.55,360
+Phil_C,SHOP,Q4 2021,"Feb 16, 2022 BMO",27-Oct-21,1.85,"1,400"
+Phil_C,AVLR,Q4 2021,"Feb 16, 2022 AMC",3-Nov-21,0.04,190
+Phil_C,TTD,Q4 2021,"Feb 17, 2022 BMO",2-Nov-21,0.5,450
+Phil_C,DDOG,Q4 2021,"Feb 17, 2022 AMC","Oct 20, 2021 49 days ago",0.1,270
+Phil_C,EVBG,Q4 2021,"Feb 22, 2022 AMC","Aug 4, 2021 126 days ago",-0.04,102
+Phil_C,PEGA,Q4 2021,"Feb 24, 2022 AMC","Oct 20, 2021 49 days ago",0.12,370
+Phil_C,ABNB,Q4 2021,"Feb 24, 2022 AMC",2-Nov-21,0.15,"1,800"
+Phil_C,CFLT,Q4 2021,"Feb 24, 2022 AMC",4-Nov-21,-0.15,112
+Phil_C,CRM,Q4 2022,"Mar 1, 2022 AMC","Aug 4, 2021 126 days ago",1.35,"7,250"
+Phil_C,SNOW,Q4 2022,"Mar 2, 2022 AMC","Sep 7, 2021 92 days ago",-0.1,375
+Phil_C,ADSK,Q4 2022,"Mar 3, 2022 AMC","Aug 4, 2021 126 days ago",1.5,"1,220"
+Phil_C,ZM,Q4 2022,"Mar 9, 2022 AMC","Aug 4, 2021 126 days ago",1.35,"1,100"
+Phil_C,MDB,Q4 2022,"Mar 16, 2022 AMC","Aug 31, 2021 99 days ago",-0.2,230
+Phil_C,DOCU,Q4 2022,"Mar 17, 2022 AMC","Aug 31, 2021 99 days ago",0.5,600
+Phil_C,ORCL,Q3 2022,"Mar 17, 2022 AMC","Aug 31, 2021 99 days ago",1.2,"10,700"
+Phil_C,GOOGL,Q1 2022,"Apr 27, 2022 AMC",25-Oct-21,28,"60,000"
+Phil_C,NOW,Q1 2022,"Apr 27, 2022 AMC",26-Oct-21,1.85,"1,700"
+Phil_C,FB,Q1 2022,"Apr 27, 2022 AMC","Oct 20, 2021 49 days ago",4,"33,000"
+Phil_C,AMZN,Q1 2022,"Apr 28, 2022 AMC",27-Oct-21,18,"135,000"
+Phil_C,MSFT,Q3 2022,"Apr 28, 2022 AMC","Oct 20, 2021 49 days ago",2.26,"50,000"
+Phil_C,SHOP,Q1 2022,"May 3, 2022 BMO",27-Oct-21,1.45,"1,400"
+Phil_C,TWLO,Q1 2022,"May 3, 2022 AMC","Oct 20, 2021 49 days ago",-0.05,790
+Phil_C,TSLA,Q1 2022,"May 4, 2022 AMC","Oct 20, 2021 49 days ago",1.7,"16,500"
+Phil_C,HUBS,Q1 2022,"May 4, 2022 AMC",2-Nov-21,0.5,390
+Phil_C,TEAM,Q3 2022,"May 5, 2022 AMC",29-Oct-21,0.45,740
+Phil_C,FROG,Q1 2022,"May 5, 2022 AMC",2-Nov-21,0.04,65
+Phil_C,EVBG,Q1 2022,"May 9, 2022 AMC","Aug 4, 2021 126 days ago",-0.04,110
+Phil_C,PLTR,Q1 2022,"May 10, 2022 BMO",8-Nov-21,0.08,450
+Phil_C,PEGA,Q1 2022,"May 11, 2022 AMC","Oct 20, 2021 49 days ago",0.3,375
+Phil_C,AVLR,Q1 2022,"May 11, 2022 AMC",3-Nov-21,0.05,200
+Phil_C,CFLT,Q1 2022,"May 11, 2022 AMC",4-Nov-21,-0.15,125
+Phil_C,TTD,Q1 2022,"May 12, 2022 BMO",2-Nov-21,0.4,400
+Phil_C,ABNB,Q1 2022,"May 12, 2022 AMC",2-Nov-21,0.3,"1,750"
+Phil_C,COIN,Q1 2022,"May 12, 2022 AMC",6-Nov-21,2,"1,850"
+Phil_C,DDOG,Q1 2022,"May 16, 2022 AMC","Oct 20, 2021 49 days ago",0.1,295
+Phil_C,BB,Q3 2022,"Dec 16, 2021 AMC","Sep 22, 2021 76 days ago",-0.1,174
+Phil_C,CAMP,Q3 2022,"Dec 21, 2021 AMC",12-Nov-21,-0.08,71.22
+Phil_C,ERIC,Q4 2021,"Jan 25, 2022 BMO","Apr 22, 2020 595 days ago",0.25,"70,194"
+Phil_C,SWKS,Q1 2022,"Jan 27, 2022 AMC","May 4, 2020 582 days ago",2.28,"1,087"
+Phil_C,AAPL,Q1 2022,"Feb 1, 2022 AMC",29-Oct-21,1.88,"118,133"
+Phil_C,CEVA,Q4 2021,"Feb 2, 2022 BMO","May 11, 2020 576 days ago",0.27,27.88
+Canaccord_166,QRVO,Q3 2022,"Feb 2, 2022 AMC","May 7, 2020 579 days ago",2.51,"1,036"
+Canaccord_166,QCOM,Q1 2022,"Feb 2, 2022 AMC",3-Nov-21,3.01,"10,405"
+Canaccord_166,MIXT,Q3 2022,"Feb 3, 2022 BMO",18-Nov-21,,35.35
+Canaccord_166,NOK,Q4 2021,"Feb 3, 2022 BMO","Apr 30, 2020 587 days ago",0.18,"7,227"
+Canaccord_166,DGII,Q1 2022,"Feb 3, 2022 AMC",10-Nov-21,0.3,83.51
+Canaccord_166,TENB,Q4 2021,"Feb 8, 2022 AMC","Oct 27, 2021 42 days ago",0.03,143.96
+Canaccord_166,TWLO,Q4 2021,"Feb 15, 2022 AMC",28-Oct-21,-0.26,764.59
+Canaccord_166,SWIR,Q4 2021,"Feb 22, 2022 AMC",12-Nov-21,-0.14,126.29
+Canaccord_166,EVBG,Q4 2021,"Feb 22, 2022 AMC",9-Nov-21,-0.2,102.07
+Canaccord_166,BAND,Q4 2021,"Feb 24, 2022 AMC",8-Nov-21,-0.13,118.12
+Canaccord_166,ZS,Q2 2022,"Feb 24, 2022 AMC",30-Nov-21,0.11,240.87
+Canaccord_166,SAIL,Q4 2021,"Feb 24, 2022 AMC",9-Nov-21,-0.07,113.36
+Canaccord_166,OKTA,Q4 2022,"Mar 10, 2022 AMC",2-Dec-21,-0.24,359.03
+Canaccord_166,CRWD,Q4 2022,"Mar 24, 2022 AMC",2-Dec-21,0.2,409.4
+Canaccord_166,BB,Q4 2022,"Mar 29, 2022 AMC","Sep 22, 2021 76 days ago",-0.07,206
+Canaccord_166,CAMP,Q4 2022,"Apr 19, 2022 AMC",12-Nov-21,-0.05,73.54
+Canaccord_166,QCOM,Q2 2022,"Apr 20, 2022 AMC",3-Nov-21,2.45,"9,533"
+Canaccord_166,AAPL,Q2 2022,"May 3, 2022 AMC",29-Oct-21,1.24,"89,418"
+Canaccord_166,TWLO,Q1 2022,"May 3, 2022 AMC",28-Oct-21,-0.02,771.7
+Canaccord_166,TENB,Q1 2022,"May 3, 2022 AMC",27-Oct-21,0.04,146.9
+Canaccord_166,BAND,Q1 2022,"May 4, 2022 AMC",8-Nov-21,0,134.53
+Canaccord_166,DGII,Q2 2022,"May 5, 2022 AMC",10-Nov-21,0.34,89.1
+Canaccord_166,EVBG,Q1 2022,"May 9, 2022 AMC","Nov 9, 2021 28 days ago",-0.1,105.23
+Canaccord_166,SAIL,Q1 2022,"May 11, 2022 AMC","Nov 9, 2021 28 days ago",-0.02,110.12
+Canaccord_166,SWIR,Q1 2022,"May 12, 2022 AMC",12-Nov-21,-0.13,121.79
+Canaccord_166,MIXT,Q4 2022,"May 26, 2022 BMO",18-Nov-21,,36.39
+Canaccord_166,ZS,Q3 2022,"Jun 2, 2022 AMC",30-Nov-21,0.12,253.43
+Canaccord_166,OKTA,Q1 2023,"Jun 8, 2022 AMC",2-Dec-21,-0.18,348.5
+Canaccord_166,BB,Q1 2023,"Jun 23, 2022 BMO","Sep 22, 2021 76 days ago",0,241
+Canaccord_166,CAMP,Q1 2023,"Jun 28, 2022 AMC",12-Nov-21,0,78.5
+Canaccord_166,QCOM,Q3 2022,"Jul 20, 2022 AMC",3-Nov-21,2.34,"9,107"
+Canaccord_166,CRWD,Q1 2023,"Jul 21, 2022 AMC",2-Dec-21,0.17,439.15
+Canaccord_166,DGII,Q3 2022,"Jul 28, 2022 AMC",10-Nov-21,0.41,95.74
+Canaccord_166,AAPL,Q3 2022,"Aug 2, 2022 AMC",29-Oct-21,1.19,"83,981"
+Canaccord_166,TENB,Q2 2022,"Aug 2, 2022 AMC",27-Oct-21,0.08,155.08
+Canaccord_166,MIXT,Q1 2023,"Aug 4, 2022 BMO",18-Nov-21,,36.84
+Canaccord_166,BAND,Q2 2022,"Aug 4, 2022 AMC",8-Nov-21,0.15,142.6
+Canaccord_166,EVBG,Q2 2022,"Aug 8, 2022 AMC","Nov 9, 2021 28 days ago",-0.02,110.91
+Canaccord_166,TWLO,Q2 2022,"Aug 8, 2022 AMC",28-Oct-21,0,874.96
+Canaccord_166,SAIL,Q2 2022,"Aug 10, 2022 AMC",9-Nov-21,-0.02,119.68
+Canaccord_166,SWIR,Q2 2022,"Aug 11, 2022 AMC",12-Nov-21,-0.06,126.61
+Canaccord_166,OKTA,Q2 2023,"Aug 31, 2022 AMC",2-Dec-21,-0.24,419.67
+Canaccord_166,CRWD,Q2 2023,"Sep 8, 2022 AMC",2-Dec-21,0.2,474.38
+Canaccord_166,ZS,Q4 2022,"Sep 8, 2022 AMC",30-Nov-21,0.16,280.24
+Canaccord_166,DOCS,Q3 2022,"Jan 28, 2022 AMC",10-Nov-21,0.14,86.3
+Canaccord_166,PCTY,Q2 2022,"Feb 3, 2022 AMC","Nov 5, 2021 33 days ago",0.46,183.36
+Canaccord_166,PRO,Q4 2021,"Feb 8, 2022 AMC",3-Nov-21,-0.23,63.51
+Canaccord_166,SPSC,Q4 2021,"Feb 8, 2022 AMC",4-Nov-21,0.42,100.56
+Canaccord_166,CDAY,Q4 2021,"Feb 9, 2022 AMC",4-Nov-21,0.01,274.96
+Canaccord_166,BILL,Q2 2022,"Feb 10, 2022 AMC",5-Nov-21,-0.17,130.62
+Canaccord_166,TYL,Q4 2021,"Feb 16, 2022 AMC",28-Oct-21,1.7,430.15
+Needham_26,AVLR,Q4 2021,"Feb 16, 2022 AMC",5-Nov-21,-0.07,184.09
+Needham_26,FIVN,Q4 2021,"Feb 22, 2022 AMC",9-Nov-21,0.36,165.12
+Needham_26,EVBG,Q4 2021,"Feb 22, 2022 AMC",10-Nov-21,-0.19,102.11
+Needham_26,WDAY,Q4 2022,"Feb 28, 2022 AMC",19-Nov-21,0.67,"1,362"
+Needham_26,CRM,Q4 2022,"Mar 1, 2022 AMC",1-Dec-21,0.72,"7,229"
+Needham_26,AXON,Q4 2021,"Mar 1, 2022 AMC",16-Nov-21,0.17,203.2
+Needham_26,VEEV,Q4 2022,"Mar 1, 2022 AMC","Aug 28, 2020 467 days ago",0.72,431.83
+Needham_26,PLAN,Q4 2022,"Mar 2, 2022 AMC",24-Nov-21,-0.09,154.62
+Needham_26,SPT,Q4 2021,"Mar 2, 2022 AMC",3-Nov-21,-0.07,51.26
+Needham_26,GLBE,Q4 2021,"Mar 3, 2022 BMO",11-Nov-21,0.03,77.58
+Needham_26,UPLD,Q4 2021,"Mar 10, 2022 AMC","Aug 5, 2021 125 days ago",0.47,80.16
+Needham_26,ONTF,Q4 2021,"Mar 16, 2022 AMC",10-Nov-21,-0.1,51.48
+Needham_26,DOCU,Q4 2022,"Mar 17, 2022 AMC",3-Dec-21,0.48,561.08
+Needham_26,SMAR,Q4 2022,"Mar 22, 2022 AMC","Dec 3, 2021 5 days ago",-0.15,151.5
+Needham_26,ZUO,Q4 2022,"Mar 24, 2022 AMC","Aug 26, 2021 104 days ago",-0.02,87.81
+Needham_26,TYL,Q1 2022,"Apr 27, 2022 AMC","Jul 30, 2021 131 days ago",1.75,416.77
+Needham_26,SPSC,Q1 2022,"Apr 28, 2022 AMC",4-Nov-21,0.49,104.43
+Needham_26,PRO,Q1 2022,"May 3, 2022 AMC",18-Nov-21,-0.24,65.76
+Needham_26,FIVN,Q1 2022,"May 4, 2022 AMC",9-Nov-21,0.21,173.4
+Needham_26,CDAY,Q1 2022,"May 4, 2022 AMC",4-Nov-21,0.02,283.44
+Needham_26,PCTY,Q3 2022,"May 5, 2022 AMC",5-Nov-21,0.97,237.95
+Needham_26,EVBG,Q1 2022,"May 9, 2022 AMC",10-Nov-21,-0.12,105.97
+Needham_26,AXON,Q1 2022,"May 10, 2022 AMC",16-Nov-21,0.31,231.75
+Needham_26,AVLR,Q1 2022,"May 11, 2022 AMC",5-Nov-21,-0.12,189.93
+Needham_26,ONTF,Q1 2022,"May 11, 2022 AMC",10-Nov-21,-0.08,52
+Needham_26,SPT,Q1 2022,"May 11, 2022 AMC",3-Nov-21,-0.07,53.06
+Needham_26,UPLD,Q1 2022,"May 12, 2022 AMC","Aug 5, 2021 125 days ago",0.47,81.36
+Needham_26,BILL,Q3 2022,"May 12, 2022 AMC",5-Nov-21,-0.22,140.84
+Needham_26,DOCS,Q4 2022,"May 17, 2022 AMC",10-Nov-21,0.13,89.03
+Needham_26,CRM,Q1 2023,"May 19, 2022 AMC",1-Dec-21,0.96,"7,412"
+Needham_26,PLAN,Q1 2023,"May 31, 2022 BMO","May 27, 2021 195 days ago",-0.11,162.32
+Needham_26,WDAY,Q1 2023,"May 31, 2022 AMC",19-Nov-21,0.87,"1,403"
+Needham_26,GLBE,Q1 2022,"Jun 2, 2022 BMO","Oct 22, 2021 47 days ago",0.01,61.09
+Needham_26,SMAR,Q1 2023,"Jun 8, 2022 AMC",3-Dec-21,-0.16,159.59
+Needham_26,DOCU,Q1 2023,"Jun 9, 2022 AMC",3-Dec-21,0.46,597.33
+Needham_26,TYL,Q2 2022,"Jul 27, 2022 AMC","Jul 30, 2021 131 days ago",1.82,466.33
+Needham_26,SPSC,Q2 2022,"Jul 28, 2022 AMC",4-Nov-21,0.5,109.21
+Needham_26,PRO,Q2 2022,"Aug 2, 2022 AMC","Nov 18, 2021 20 days ago",-0.23,67.84
+Needham_26,FIVN,Q2 2022,"Aug 3, 2022 AMC",9-Nov-21,0.22,179.5
+Needham_26,EVBG,Q2 2022,"Aug 8, 2022 AMC",10-Nov-21,-0.05,108.75
+Needham_26,AXON,Q2 2022,"Aug 9, 2022 AMC",16-Nov-21,0.45,258.18
+Needham_26,ONTF,Q2 2022,"Aug 9, 2022 AMC",10-Nov-21,-0.07,54.16
+Needham_26,DOCS,Q1 2023,"Aug 9, 2022 AMC",10-Nov-21,0.14,94.47
+Needham_26,MANH,Q4 2021,"Feb 1, 2022 AMC",26-Oct-21,,162.57
+Needham_26,PCTY,Q2 2022,"Feb 3, 2022 AMC",4-Nov-21,,187.6
+Needham_26,MODN,Q1 2022,"Feb 8, 2022 AMC","Aug 9, 2021 121 days ago",0.09,51.7
+Needham_26,SWI,Q4 2021,"Feb 9, 2022 BMO","Oct 29, 2021 40 days ago",0.47,182.2
+Needham_26,MIME,Q3 2022,"Feb 14, 2022 BMO","Aug 3, 2021 127 days ago",0.3,146.1
+Needham_26,RNG,Q4 2021,"Feb 14, 2022 AMC","Nov 9, 2021 28 days ago",0.36,434
+Needham_26,HUBS,Q4 2021,"Feb 15, 2022 AMC",3-Nov-21,0.53,357.3
+Needham_26,SHOP,Q4 2021,"Feb 16, 2022 BMO",28-Oct-21,0.67,"1,326"
+Suntrust_93,QTWO,Q4 2021,"Feb 16, 2022 AMC","Aug 5, 2021 125 days ago",,131.5
+Suntrust_93,BL,Q4 2021,"Feb 17, 2022 AMC",4-Nov-21,0.1,113.6
+Suntrust_93,FIVN,Q4 2021,"Feb 22, 2022 AMC",9-Nov-21,0.36,165
+Suntrust_93,EVBG,Q4 2021,"Feb 22, 2022 AMC",9-Nov-21,-0.2,102
+Suntrust_93,WK,Q4 2021,"Feb 24, 2022 AMC",3-Nov-21,-0.06,117
+Suntrust_93,APPN,Q4 2021,"Feb 24, 2022 AMC",4-Nov-21,,95.3
+Suntrust_93,CRM,Q4 2022,"Mar 1, 2022 AMC",30-Nov-21,,"7,229"
+Suntrust_93,PLAN,Q4 2022,"Mar 2, 2022 AMC",23-Nov-21,-0.1,154
+Suntrust_93,XM,Q4 2021,"Mar 8, 2022 AMC","Oct 20, 2021 48 days ago",,297
+Suntrust_93,UPLD,Q4 2021,"Mar 10, 2022 AMC",3-Nov-21,,75.6
+Suntrust_93,COUP,Q4 2022,"Mar 14, 2022 AMC",6-Dec-21,0.04,186
+Suntrust_93,SMAR,Q4 2022,"Mar 22, 2022 AMC",2-Dec-21,-0.15,152
+Suntrust_93,XM,Q1 2022,"Apr 20, 2022 AMC","Oct 20, 2021 48 days ago",,319
+Suntrust_93,MANH,Q1 2022,"Apr 26, 2022 AMC",26-Oct-21,,167.95
+Suntrust_93,SWI,Q1 2022,"Apr 28, 2022 BMO",29-Oct-21,,176.7
+Suntrust_93,WK,Q1 2022,"May 4, 2022 AMC",3-Nov-21,-0.03,122
+Suntrust_93,HUBS,Q1 2022,"May 4, 2022 AMC",3-Nov-21,0.59,377
+Suntrust_93,FIVN,Q1 2022,"May 4, 2022 AMC",9-Nov-21,0.12,162.5
+Suntrust_93,BL,Q1 2022,"May 5, 2022 AMC",4-Nov-21,0.13,121
+Suntrust_93,PCTY,Q3 2022,"May 5, 2022 AMC",4-Nov-21,,239.6
+Suntrust_93,APPN,Q1 2022,"May 5, 2022 AMC",4-Nov-21,,100
+Suntrust_93,EVBG,Q1 2022,"May 9, 2022 AMC",9-Nov-21,-0.2,108
+Suntrust_93,MODN,Q2 2022,"May 9, 2022 AMC","Aug 9, 2021 121 days ago",0.1,52.9
+Suntrust_93,QTWO,Q1 2022,"May 10, 2022 AMC","Aug 5, 2021 125 days ago",,136.5
+Suntrust_93,RNG,Q1 2022,"May 11, 2022 AMC",9-Nov-21,0.3,451
+Suntrust_93,UPLD,Q1 2022,"May 12, 2022 AMC",3-Nov-21,,76.3
+Suntrust_93,MIME,Q4 2022,"May 16, 2022 BMO","Aug 3, 2021 127 days ago",0.28,159
+Suntrust_93,CRM,Q1 2023,"May 19, 2022 AMC",30-Nov-21,,"7,246"
+Suntrust_93,PLAN,Q1 2023,"May 31, 2022 BMO",23-Nov-21,-0.12,165
+Suntrust_93,COUP,Q1 2023,"Jun 6, 2022 AMC",6-Dec-21,-0.12,188
+Suntrust_93,SMAR,Q1 2023,"Jun 8, 2022 AMC",2-Dec-21,-0.14,161
+Suntrust_93,XM,Q2 2022,"Jul 19, 2022 AMC","Oct 20, 2021 48 days ago",,324
+Suntrust_93,MANH,Q2 2022,"Jul 26, 2022 AMC",26-Oct-21,,176.9
+Suntrust_93,SWI,Q2 2022,"Aug 3, 2022 BMO",29-Oct-21,,182.01
+Suntrust_93,WK,Q2 2022,"Aug 3, 2022 AMC",3-Nov-21,-0.06,129
+Suntrust_93,HUBS,Q2 2022,"Aug 3, 2022 AMC",3-Nov-21,0.46,393
+Suntrust_93,RNG,Q2 2022,"Aug 3, 2022 AMC",9-Nov-21,0.31,474
+Suntrust_93,FIVN,Q2 2022,"Aug 3, 2022 AMC",9-Nov-21,0.19,174
+Suntrust_93,QTWO,Q2 2022,"Aug 3, 2022 AMC",4-Nov-21,,142
+Suntrust_93,BL,Q2 2022,"Aug 4, 2022 AMC",4-Nov-21,0.16,127
+Suntrust_93,APPN,Q2 2022,"Aug 4, 2022 AMC",4-Nov-21,,98.2
+Suntrust_93,EVBG,Q2 2022,"Aug 8, 2022 AMC",9-Nov-21,-0.13,115
+Suntrust_93,CEVA,Q4 2021,"Feb 2, 2022 BMO","Jan 7, 2021 335 days ago",0.17,
+Suntrust_93,ZNGA,Q4 2021,"Feb 9, 2022 AMC","Nov 30, 2020 372 days ago",-0.03,
+Suntrust_93,TYL,Q4 2021,"Feb 16, 2022 AMC","Feb 11, 2021 300 days ago",1.47,
+Suntrust_93,EVBG,Q4 2021,"Feb 22, 2022 AMC","Nov 6, 2020 397 days ago",-0.58,95.9
+Suntrust_93,MU,Q1 2022,"Dec 20, 2021 AMC","Oct 7, 2021 62 days ago",2.4,"8,145"
+Suntrust_93,DDOG,Q4 2021,"Feb 17, 2022 AMC","Oct 20, 2021 49 days ago",0.07,263.42
+Suntrust_93,ORCL,Q2 2022,"Dec 9, 2021 AMC","Sep 14, 2021 85 days ago",1.11,"10,230"
+Suntrust_93,TEAM,Q2 2022,"Jan 20, 2022 AMC",1-Nov-21,0.4,
+Suntrust_93,CVLT,Q3 2022,"Jan 26, 2022 BMO",27-Oct-21,0.61,195.01
+Oppenheimer_17,NOW,Q4 2021,"Jan 26, 2022 AMC",1-Nov-21,1.45,
+Oppenheimer_17,DT,Q3 2022,"Feb 2, 2022 BMO",28-Oct-21,0.17,237.05
+Oppenheimer_17,RAMP,Q3 2022,"Feb 8, 2022 AMC",3-Nov-21,0.17,
+Oppenheimer_17,NEWR,Q3 2022,"Feb 8, 2022 AMC",9-Nov-21,-0.16,
+Oppenheimer_17,AAIC,Q4 2021,"Feb 8, 2022 AMC","Jan 4, 2021 338 days ago",-0.16,48.03
+Analyst_8459950,TDC,Q4 2021,"Feb 10, 2022 AMC","Aug 6, 2021 124 days ago",0.22,476.74
+Suntrust_60,FROG,Q4 2021,"Feb 10, 2022 AMC",8-Nov-21,0,58.43
+Analyst_5300562,DDOG,Q4 2021,"Feb 17, 2022 AMC",8-Nov-21,0.13,
+Analyst_5300562,AYX,Q4 2021,"Feb 23, 2022 AMC",4-Nov-21,0.25,
+Analyst_5300562,PEGA,Q4 2021,"Feb 24, 2022 AMC","Jul 29, 2021 132 days ago",0.21,356.88
+Analyst_7749299,APPN,Q4 2021,"Feb 24, 2022 AMC",5-Nov-21,-0.22,
+Needham_33,SNOW,Q4 2022,"Mar 2, 2022 AMC",3-Dec-21,0.02,374.97
+Needham_33,NTNX,Q2 2022,"Mar 3, 2022 AMC",24-Nov-21,-0.14,
+Needham_33,SPLK,Q4 2022,"Mar 3, 2022 AMC",2-Dec-21,-0.14,
+Needham_33,MDB,Q4 2022,"Mar 16, 2022 AMC",7-Dec-21,-0.19,245.09
+Needham_33,DOMO,Q4 2022,"Mar 16, 2022 AMC",3-Dec-21,-0.37,
+Needham_33,ORCL,Q3 2022,"Mar 17, 2022 AMC","Sep 14, 2021 85 days ago",1.19,"10,605"
+Needham_33,NOW,Q1 2022,"Apr 27, 2022 AMC",1-Nov-21,1.76,
+Needham_33,CVLT,Q4 2022,"May 3, 2022 BMO",27-Oct-21,0.64,198.66
+Needham_33,AAIC,Q1 2022,"May 4, 2022 BMO","Jan 4, 2021 338 days ago",-0.2,49.72
+Needham_33,TEAM,Q3 2022,"May 5, 2022 AMC",1-Nov-21,0.47,
+Needham_33,TDC,Q1 2022,"May 5, 2022 AMC","Aug 6, 2021 124 days ago",0.51,482.02
+Needham_33,APPN,Q1 2022,"May 5, 2022 AMC",5-Nov-21,-0.2,
+Needham_33,FROG,Q1 2022,"May 5, 2022 AMC",8-Nov-21,0.01,60.88
+Needham_33,NEWR,Q4 2022,"May 10, 2022 AMC","Aug 4, 2021 126 days ago",-0.07,
+Needham_33,PEGA,Q1 2022,"May 11, 2022 AMC","Jul 29, 2021 132 days ago",0.42,384.65
+Needham_33,AYX,Q1 2022,"May 11, 2022 AMC","Aug 4, 2021 126 days ago",-0.17,
+Needham_33,DDOG,Q1 2022,"May 16, 2022 AMC",8-Nov-21,0.13,
+Needham_33,DT,Q4 2022,"May 17, 2022 BMO",28-Oct-21,0.18,248
+Needham_33,RAMP,Q4 2022,"May 25, 2022 AMC",3-Nov-21,0.11,
+Needham_33,SNOW,Q1 2023,"May 25, 2022 AMC",3-Dec-21,0.02,406.17
+Needham_33,SPLK,Q1 2023,"May 26, 2022 AMC",2-Dec-21,-0.75,
+Needham_33,NTNX,Q3 2022,"May 26, 2022 AMC",24-Nov-21,-0.16,
+Needham_33,MDB,Q1 2023,"Jun 8, 2022 AMC",7-Dec-21,-0.1,255.2
+Needham_33,DOMO,Q1 2023,"Jun 9, 2022 AMC","Aug 27, 2021 103 days ago",-0.34,
+Needham_33,ORCL,Q4 2022,"Jun 22, 2022 AMC","Sep 14, 2021 85 days ago",1.41,"11,832"
+Needham_33,CVLT,Q1 2023,"Jul 26, 2022 BMO",27-Oct-21,0.63,193.22
+Needham_33,AAIC,Q2 2022,"Jul 26, 2022 BMO","Jan 4, 2021 338 days ago",-0.18,55.17
+Needham_33,NOW,Q2 2022,"Jul 27, 2022 AMC",1-Nov-21,1.71,
+Needham_33,TEAM,Q4 2022,"Jul 28, 2022 AMC",1-Nov-21,0.41,
+Needham_33,NEWR,Q1 2023,"Aug 2, 2022 AMC",9-Nov-21,-0.01,
+Needham_33,AYX,Q2 2022,"Aug 3, 2022 AMC","Aug 4, 2021 126 days ago",-0.22,
+Needham_33,TDC,Q2 2022,"Aug 4, 2022 AMC","Aug 6, 2021 124 days ago",0.67,498.32
+Needham_33,APPN,Q2 2022,"Aug 4, 2022 AMC",5-Nov-21,-0.3,
+Needham_33,FROG,Q2 2022,"Aug 4, 2022 AMC",8-Nov-21,0.01,65.25
+Needham_33,RAMP,Q1 2023,"Aug 8, 2022 AMC",3-Nov-21,0.18,
+Needham_33,PEGA,Q2 2022,"Aug 10, 2022 AMC","Jul 29, 2021 132 days ago",0.19,395.57
+Needham_33,ALV,Q4 2021,"Jan 28, 2022 BMO",7-Dec-21,1.21,"2,185"
+Needham_33,KBH,Q4 2021,"Jan 12, 2022 AMC",9-Nov-21,1.85,"1,750"
+Needham_33,ADBE,Q4 2021,"Dec 16, 2021 AMC",4-Dec-21,3.23,"4,093"
+Needham_33,MS,Q4 2021,"Jan 20, 2022 BMO","Feb 20, 2020 657 days ago",1.44,"11,159"
+Needham_33,PIPR,Q4 2021,"Feb 4, 2022 BMO","Feb 3, 2020 674 days ago",3.14,368.3
+Needham_33,PAYC,Q4 2021,"Feb 8, 2022 AMC",2-Nov-21,1,280
+Needham_33,TTD,Q4 2021,"Feb 17, 2022 BMO",8-Nov-21,0.33,401
+Needham_33,ENPH,Q4 2021,"Mar 1, 2022 AMC",27-Oct-21,0.6,405
+Needham_33,GOOS,Q3 2022,"Feb 11, 2022 BMO","Apr 9, 2021 243 days ago",1.15,350.5
+Needham_33,RMD,Q2 2022,"Jan 24, 2022 AMC",29-Oct-21,1.59,957.16
+Needham_33,SYK,Q4 2021,"Jan 25, 2022 AMC",29-Oct-21,2.75,"4,607"
+Needham_33,CNMD,Q4 2021,"Jan 26, 2022 AMC",28-Oct-21,1.07,278.51
+Needham_33,HRC,Q1 2022,"Jan 28, 2022 BMO","Nov 5, 2021 33 days ago",1.45,743.25
+Needham_33,ZBH,Q4 2021,"Feb 1, 2022 BMO",4-Nov-21,2,"2,086"
+Needham_33,HOLX,Q1 2022,"Feb 2, 2022 AMC",2-Nov-21,1.2,"1,134"
+Analyst_9374239,BSX,Q4 2021,"Feb 3, 2022 BMO",27-Oct-21,0.43,"3,126"
+Analyst_9374239,HAE,Q3 2022,"Feb 8, 2022 BMO",9-Nov-21,0.69,266.05
+Analyst_8282636,SRDX,Q1 2022,"Feb 9, 2022 BMO",10-Nov-21,-0.27,23.96
+lernout,CSII,Q2 2022,"Feb 9, 2022 BMO",9-Nov-21,-0.16,62.36
+lernout,IVC,Q4 2021,"Feb 10, 2022 AMC",28-Oct-21,0.06,226.56
+Analyst_9372808,STE,Q3 2022,"Feb 14, 2022 AMC",3-Nov-21,1.95,"1,186"
+Analyst_8540090,CRY,Q4 2021,"Feb 16, 2022 AMC","Jul 30, 2021 131 days ago",0.01,77.73
+Calvin_S,MDT,Q3 2022,"Feb 22, 2022 BMO",23-Nov-21,1.38,"7,965"
+Analyst_5039344,INMD,Q4 2021,"Feb 22, 2022 BMO",26-Oct-21,0.52,97.1
+Analyst_5039344,ATRC,Q4 2021,"Feb 22, 2022 AMC",4-Nov-21,-0.34,71.36
+Buck_355861,MASI,Q4 2021,"Feb 22, 2022 AMC",27-Oct-21,1.11,320.8
+Buck_355861,MMSI,Q4 2021,"Feb 22, 2022 AMC",29-Oct-21,0.5,270.43
+Buck_355861,NEO,Q4 2021,"Feb 23, 2022 BMO",7-Dec-21,-0.13,126.77
+Analyst_2453690,GMED,Q4 2021,"Feb 23, 2022 AMC","Oct 29, 2020 405 days ago",0.56,242.39
+Analyst_8268390,TFX,Q4 2021,"Feb 24, 2022 BMO",28-Oct-21,3.53,742.45
+TheRod,NUVA,Q4 2021,"Feb 24, 2022 AMC","Jan 6, 2021 336 days ago",0.77,332.02
+TheRod,INGN,Q4 2021,"Mar 1, 2022 AMC",5-Nov-21,-0.72,74.08
+TheRod,VCYT,Q4 2021,"Mar 1, 2022 AMC",10-Nov-21,-0.21,61.75
+TheRod,LIVN,Q4 2021,"Mar 2, 2022 BMO",3-Nov-21,0.53,267.88
+Josephine,SYK,Q1 2022,"Apr 26, 2022 AMC","Oct 29, 2021 40 days ago",2.17,"4,227"
+Analyst_7236391,BSX,Q1 2022,"Apr 27, 2022 BMO","Oct 27, 2021 42 days ago",0.4,"2,998"
+Analyst_7236391,CRY,Q1 2022,"Apr 27, 2022 AMC","Jul 30, 2021 131 days ago",0.05,79.08
+VPJS,CNMD,Q1 2022,"Apr 27, 2022 AMC","Oct 28, 2021 41 days ago",0.67,246.28
+Needham_34,ZBH,Q1 2022,"Apr 28, 2022 BMO",4-Nov-21,1.81,"1,867"
+Needham_34,MMSI,Q1 2022,"Apr 28, 2022 AMC","Oct 29, 2021 40 days ago",0.54,276.28
+Needham_34,RMD,Q3 2022,"Apr 28, 2022 AMC",29-Oct-21,1.61,954.56
+Needham_34,ATRC,Q1 2022,"Apr 28, 2022 AMC",4-Nov-21,-0.27,69.26
+Needham_34,HRC,Q2 2022,"Apr 29, 2022 BMO","Nov 5, 2021 33 days ago",1.65,763.47
+Needham_34,NEO,Q1 2022,"May 3, 2022 BMO",7-Dec-21,-0.11,126.96
+Needham_34,GMED,Q1 2022,"May 3, 2022 AMC","Oct 29, 2020 405 days ago",0.49,
+Needham_34,VCYT,Q1 2022,"May 3, 2022 AMC","Nov 10, 2021 28 days ago",-0.22,59.34
+Needham_34,SRDX,Q2 2022,"May 4, 2022 BMO",10-Nov-21,-0.34,24.67
+Needham_34,CSII,Q3 2022,"May 4, 2022 BMO",9-Nov-21,-0.07,67.68
+Needham_34,LIVN,Q1 2022,"May 4, 2022 BMO","Nov 3, 2021 35 days ago",0.53,237.05
+Needham_34,MASI,Q1 2022,"May 4, 2022 AMC","Oct 27, 2021 42 days ago",1.05,328.67
+Needham_34,HOLX,Q2 2022,"May 4, 2022 AMC",2-Nov-21,1,"1,042"
+Needham_34,NUVA,Q1 2022,"May 4, 2022 AMC","Jan 6, 2021 336 days ago",0.63,
+Needham_34,TFX,Q1 2022,"May 5, 2022 BMO",28-Oct-21,2.99,653.18
+Needham_34,IVC,Q1 2022,"May 9, 2022 AMC","Sep 10, 2021 89 days ago",-0.23,200.68
+Needham_34,HAE,Q4 2022,"May 10, 2022 BMO",9-Nov-21,0.61,248.67
+Needham_34,INGN,Q1 2022,"May 10, 2022 AMC",5-Nov-21,-0.39,88.25
+Needham_34,INMD,Q1 2022,"May 11, 2022 BMO",26-Oct-21,0.38,82.32
+Needham_34,STE,Q4 2022,"May 17, 2022 AMC",3-Nov-21,2.06,"1,214"
+Needham_34,MDT,Q4 2022,"May 26, 2022 BMO",23-Nov-21,1.6,"8,648"
+Needham_34,ANGO,Q2 2022,"Jan 6, 2022 BMO","Oct 14, 2021 54 days ago",-0.02,77.73
+Needham_34,BSX,Q4 2021,"Feb 3, 2022 BMO",27-Oct-21,0.44,"3,131"
+Needham_34,EW,Q4 2021,"Feb 3, 2022 AMC",27-Oct-21,0.56,"1,357"
+Needham_34,SWAV,Q4 2021,"Feb 17, 2022 AMC",9-Nov-21,0.14,75.39
+Needham_34,ATRC,Q4 2021,"Feb 22, 2022 AMC",4-Nov-21,-0.33,73.21
+Needham_34,MMSI,Q4 2021,"Feb 22, 2022 AMC",28-Oct-21,0.54,273.77
+Needham_34,NVRO,Q4 2021,"Feb 24, 2022 AMC",9-Nov-21,-0.86,97.96
+Needham_34,PEN,Q4 2021,"Mar 1, 2022 AMC",5-Nov-21,0.31,194.15
+Needham_34,ANGO,Q3 2022,"Mar 31, 2022 BMO","Oct 4, 2021 65 days ago",-0.04,77.08
+Needham_34,ATRC,Q1 2022,"Apr 28, 2022 AMC",4-Nov-21,-0.34,76.01
+Needham_34,NVRO,Q1 2022,"May 9, 2022 AMC",9-Nov-21,-0.77,100.37
+Needham_34,SWAV,Q1 2022,"May 10, 2022 AMC",9-Nov-21,0.15,83.01
+Needham_34,ANGO,Q4 2022,"Jul 13, 2022 BMO","Oct 14, 2021 54 days ago",0,82.91
+Needham_34,ATRC,Q2 2022,"Aug 3, 2022 AMC",4-Nov-21,-0.3,81.98
+Needham_34,NVRO,Q2 2022,"Aug 8, 2022 AMC",9-Nov-21,-0.64,110.29
+Needham_34,SWAV,Q2 2022,"Aug 8, 2022 AMC",9-Nov-21,,92.02
+Needham_34,ATRC,Q3 2022,"Nov 2, 2022 AMC",4-Nov-21,-0.3,79.63
+Needham_34,NVRO,Q3 2022,"Nov 7, 2022 AMC",9-Nov-21,-0.68,107.75
+Needham_34,SWAV,Q3 2022,"Nov 9, 2022 AMC",9-Nov-21,0.22,92.44
+Needham_34,SWAV,Q4 2022,"Feb 16, 2023 AMC",9-Nov-21,0.26,101.98
+Needham_34,ATRC,Q4 2022,"Feb 21, 2023 AMC",4-Nov-21,-0.27,83.99
+Needham_34,NVRO,Q4 2022,"Feb 23, 2023 AMC",9-Nov-21,-0.56,113.85
+Needham_34,ANGO,Q2 2022,"Jan 6, 2022 BMO","Oct 4, 2021 65 days ago",0,
+Needham_34,SYK,Q4 2021,"Jan 25, 2022 AMC",29-Oct-21,2.74,
+Needham_34,ZBH,Q4 2021,"Feb 1, 2022 BMO",5-Nov-21,1.99,
+Needham_34,BSX,Q4 2021,"Feb 3, 2022 BMO","Feb 3, 2021 307 days ago",0.44,
+Needham_34,CFMS,Q4 2021,"Feb 9, 2022 AMC",4-Nov-21,-0.08,
+Needham_34,MDT,Q3 2022,"Feb 22, 2022 BMO",23-Nov-21,1.38,
+Needham_34,ALC,Q4 2021,"Feb 22, 2022 AMC",11-Nov-21,0.5,
+Needham_34,MMSI,Q4 2021,"Feb 22, 2022 AMC",8-Nov-21,0.49,
+Canaccord_285,DXCM,Q4 2021,"Feb 23, 2022 AMC",29-Oct-21,0.91,
+Canaccord_285,GMED,Q4 2021,"Feb 23, 2022 AMC",5-Nov-21,0.46,
+Canaccord_285,PODD,Q4 2021,"Feb 23, 2022 AMC",5-Nov-21,0.36,
+Canaccord_285,IART,Q4 2021,"Feb 24, 2022 BMO",2-Nov-21,0.82,
+Canaccord_285,MNKD,Q4 2021,"Mar 1, 2022 AMC","Aug 12, 2021 118 days ago",-0.06,
+Canaccord_285,GKOS,Q4 2021,"Mar 2, 2022 AMC","Aug 6, 2021 124 days ago",-0.34,
+Canaccord_285,TNDM,Q4 2021,"Mar 2, 2022 AMC",4-Nov-21,0.16,
+Canaccord_285,COO,Q1 2022,"Mar 3, 2022 AMC",3-Dec-21,3.08,
+Canaccord_285,BWAY,Q4 2021,"Mar 22, 2022 BMO",18-Nov-21,-0.05,
+Canaccord_285,ANGO,Q3 2022,"Mar 31, 2022 BMO","Oct 4, 2021 65 days ago",0.01,
+Canaccord_285,MDT,Q4 2022,"May 26, 2022 BMO",23-Nov-21,1.59,
+Canaccord_285,COO,Q2 2022,"Jun 2, 2022 AMC",3-Dec-21,3.4,
+Canaccord_285,ANGO,Q4 2022,"Jul 13, 2022 BMO","Oct 4, 2021 65 days ago",0.04,
+Canaccord_285,COO,Q3 2022,"Sep 1, 2022 AMC",3-Dec-21,3.61,
+Canaccord_285,COO,Q4 2022,"Dec 8, 2022 AMC",3-Dec-21,3.74,
+Canaccord_285,C,Q4 2021,"Jan 14, 2022 BMO",22-Nov-21,1.91,"17,362"
+Canaccord_285,BEN,Q1 2022,"Feb 2, 2022 BMO",1-Nov-21,1.01,"1,625"
+Canaccord_285,NVDA,Q4 2022,"Feb 17, 2022 AMC",22-Nov-21,1.03,"7,372"
+Canaccord_285,WNS,Q3 2022,"Jan 20, 2022 BMO",28-Oct-21,0.81,254.92
+Canaccord_285,PYPL,Q4 2021,"Feb 2, 2022 AMC",9-Nov-21,1.12,"6,900"
+Canaccord_285,EPAY,Q2 2022,"Feb 3, 2022 AMC",10-Nov-21,0.25,125.5
+Canaccord_285,EEFT,Q4 2021,"Feb 8, 2022 BMO","Oct 21, 2021 48 days ago",1.38,815.42
+Canaccord_285,CTSH,Q4 2021,"Feb 9, 2022 AMC",28-Oct-21,1.03,"4,777"
+Oppenheimer_30,G,Q4 2021,"Feb 10, 2022 AMC",10-Nov-21,0.52,"1,046"
+Oppenheimer_30,SSNC,Q4 2021,"Feb 16, 2022 AMC",29-Oct-21,1.25,"1,257"
+Oppenheimer_30,QTWO,Q4 2021,"Feb 16, 2022 AMC",4-Nov-21,0.05,131.89
+Oppenheimer_30,EPAM,Q4 2021,"Feb 17, 2022 BMO",4-Nov-21,2.51,"1,084"
+Oppenheimer_30,DAVA,Q2 2022,"Feb 17, 2022 BMO",17-Nov-21,0.6,207.89
+Oppenheimer_30,CSGP,Q4 2021,"Feb 22, 2022 AMC","Oct 27, 2021 42 days ago",0.29,502.29
+Oppenheimer_30,GDOT,Q4 2021,"Feb 23, 2022 AMC",5-Nov-21,0.33,310.59
+Oppenheimer_30,TREE,Q4 2021,"Feb 24, 2022 BMO",28-Oct-21,-0.35,265.36
+Oppenheimer_30,ACIW,Q4 2021,"Feb 24, 2022 BMO","Nov 4, 2021 34 days ago",1.12,453.93
+Oppenheimer_30,EVER,Q4 2021,"Feb 28, 2022 AMC",2-Nov-21,,95.74
+Oppenheimer_30,EXLS,Q4 2021,"Mar 1, 2022 BMO",2-Nov-21,1.13,286.19
+Oppenheimer_30,SPNS,Q4 2021,"Mar 1, 2022 BMO","Nov 3, 2021 35 days ago",0.3,121.7
+Oppenheimer_30,PRFT,Q4 2021,"Mar 1, 2022 BMO",28-Oct-21,0.92,207.27
+Oppenheimer_30,SQ,Q4 2021,"Mar 2, 2022 AMC",5-Nov-21,0.26,"3,859"
+Oppenheimer_30,GWRE,Q2 2022,"Mar 3, 2022 AMC",3-Dec-21,-0.14,197.24
+Oppenheimer_30,PAR,Q4 2021,"Mar 17, 2022 AMC",6-Dec-21,,76.96
+Oppenheimer_30,EEFT,Q1 2022,"Apr 26, 2022 AMC","Oct 21, 2021 48 days ago",0.75,719.03
+Oppenheimer_30,CSGP,Q1 2022,"Apr 27, 2022 AMC",27-Oct-21,0.32,512.46
+Oppenheimer_30,PYPL,Q1 2022,"Apr 27, 2022 AMC",9-Nov-21,1.12,"6,851"
+Oppenheimer_30,WNS,Q4 2022,"Apr 28, 2022 BMO",28-Oct-21,0.84,262.57
+Oppenheimer_30,TREE,Q1 2022,"Apr 28, 2022 BMO",28-Oct-21,0.19,287.7
+Oppenheimer_30,EXLS,Q1 2022,"May 3, 2022 BMO",2-Nov-21,1.16,289.27
+Oppenheimer_30,SQ,Q1 2022,"May 4, 2022 AMC",5-Nov-21,0.33,"3,985"
+Oppenheimer_30,ACIW,Q1 2022,"May 5, 2022 BMO",18-Nov-21,0.13,298.23
+Kimbo,EPAM,Q1 2022,"May 5, 2022 BMO",4-Nov-21,2.54,"1,095"
+Kimbo,PRFT,Q1 2022,"May 5, 2022 BMO",28-Oct-21,0.93,210.83
+Kimbo,SSNC,Q1 2022,"May 5, 2022 AMC",29-Oct-21,1.28,"1,280"
+Kimbo,EPAY,Q3 2022,"May 5, 2022 AMC","Nov 10, 2021 28 days ago",0.31,133.82
+Suntrust_44,G,Q1 2022,"May 5, 2022 AMC",10-Nov-21,0.59,"1,041"
+Canaccord_283,CTSH,Q1 2022,"May 6, 2022 AMC",22-Nov-21,1.02,"4,801"
+Canaccord_164,SPNS,Q1 2022,"May 9, 2022 BMO",3-Nov-21,0.3,122.31
+Needham_12,EVER,Q1 2022,"May 9, 2022 AMC",2-Nov-21,,103.01
+Needham_12,PAR,Q1 2022,"May 9, 2022 AMC",6-Dec-21,,76.22
+Needham_12,QTWO,Q1 2022,"May 10, 2022 AMC",4-Nov-21,0.05,135.56
+Needham_12,GDOT,Q1 2022,"May 11, 2022 AMC",5-Nov-21,0.95,413.45
+Needham_12,DAVA,Q3 2022,"May 25, 2022 BMO",17-Nov-21,0.56,215.79
+Needham_12,GWRE,Q3 2022,"Jun 1, 2022 AMC",3-Dec-21,-0.38,182.45
+Needham_12,EEFT,Q2 2022,"Jul 26, 2022 AMC","Oct 21, 2021 48 days ago",1.51,787.51
+Needham_12,CSGP,Q2 2022,"Jul 26, 2022 AMC","Oct 27, 2021 42 days ago",0.29,530.02
+Needham_12,PYPL,Q2 2022,"Jul 27, 2022 AMC",9-Nov-21,1.22,"7,374"
+Needham_12,SSNC,Q2 2022,"Jul 27, 2022 AMC",29-Oct-21,1.34,"1,314"
+Needham_12,EXLS,Q2 2022,"Jul 28, 2022 BMO",2-Nov-21,1.18,300.39
+Needham_12,ACIW,Q2 2022,"Jul 28, 2022 BMO",18-Nov-21,0.25,316.38
+Needham_12,TREE,Q2 2022,"Jul 28, 2022 BMO",28-Oct-21,0.54,303.92
+Needham_12,SQ,Q2 2022,"Aug 3, 2022 AMC",5-Nov-21,0.4,"4,228"
+Needham_12,,,,,,
+Needham_12,,,,,,
+Needham_12,,,,,,
+Needham_12,,,,,,
+Needham_12,,,,,,
+Needham_12,,,,,,
+Needham_12,,,,,,
+Needham_12,,,,,,
+Needham_12,,,,,,
+Needham_12,,,,,,
+Needham_12,,,,,,
+Needham_12,,,,,,
+Needham_12,,,,,,
+Needham_12,,,,,,
+Needham_12,,,,,,
+Needham_12,,,,,,
+Needham_12,,,,,,
+Needham_12,,,,,,
+Needham_12,,,,,,
+Needham_12,,,,,,
+Needham_12,,,,,,
+Needham_12,,,,,,
+Needham_12,,,,,,
+Needham_12,,,,,,
+Needham_12,,,,,,
+Needham_12,,,,,,
+Needham_12,,,,,,
+Needham_12,,,,,,
+Needham_12,,,,,,
+Needham_12,,,,,,
+Needham_12,,,,,,
+Needham_12,,,,,,
+Needham_12,,,,,,
+Needham_12,,,,,,
+Needham_12,,,,,,
+Needham_12,,,,,,
+Needham_12,,,,,,
+Saleh_1973,,,,,,
+srehman74,,,,,,
+Analyst_8113162,,,,,,
+GHS_52,,,,,,
+Analyst_8364807,,,,,,
+Analyst_5437074,,,,,,
+rrg1964,,,,,,
+Thobanis,,,,,,
+ixos,,,,,,
+Analyst_7968069,,,,,,
+Analyst_1487231,,,,,,
+352REALLUX,,,,,,
+Wx_Torn,,,,,,
+vpzhig,,,,,,
+Roth_8,,,,,,
+Analyst_2088276,,,,,,
+Oppenheimer_74,,,,,,
+TH312556,,,,,,
+Analyst_273114,,,,,,
+HenrikS,,,,,,
+Buck_6966,,,,,,
+SOLO,,,,,,
+Analyst_3353938,,,,,,
+Griffin_5,,,,,,
+tibby_t,,,,,,
+ersan,,,,,,
+Suntrust_57,,,,,,
+MM126352,,,,,,
+GHS_12,,,,,,
+GHS_39,,,,,,
+GHS_29,,,,,,
+Suntrust_2,,,,,,
+GHS_8,,,,,,
+coachtui,,,,,,
+Abbasmash,,,,,,
+Oppenheimer_27,,,,,,
+Analyst_958068,,,,,,
+Analyst_4321238,,,,,,
+Analyst_3038787,,,,,,
+Analyst_6143517,,,,,,
+Analyst_785028,,,,,,
+Analyst_7034161,,,,,,
+Analyst_3098981,,,,,,
+Analyst_14137,,,,,,
+Analyst_6661262,,,,,,
+R,,,,,,
+InNeedOfAssets,,,,,,
+Analyst_4331949,,,,,,
+Analyst_7174806,,,,,,
+miros,,,,,,
+Analyst_7292486,,,,,,
+Analyst_umbi,,,,,,
+Analyst_703153,,,,,,
+Analyst_9001123,,,,,,
+Roth_43,,,,,,
+Roth_5,,,,,,
+Roth_42,,,,,,
+Needham_42,,,,,,
+Analyst_BoyBoy,,,,,,
+DerBrandi,,,,,,
+analyst_id,Ticker,Quarter,Reports,Published,EPS,Revenue
+GHS_44,RPM,Q2 2022,"Jan 5, 2022 BMO","Oct 13, 2021 56 days ago",0.8,"1,560"
+GHS_44,PPG,Q4 2021,"Jan 20, 2022 AMC",25-Oct-21,1.21,"4,045"
+GHS_44,FUL,Q4 2021,"Jan 26, 2022 AMC","Sep 24, 2021 75 days ago",1.06,903.56
+GHS_44,SHW,Q4 2021,"Jan 27, 2022 BMO",27-Oct-21,1.7,"4,759"
+GHS_44,CCMP,Q1 2022,"Jan 27, 2022 AMC",12-Nov-21,1.84,316.48
+GHS_44,APD,Q1 2022,"Jan 28, 2022 BMO",6-Dec-21,2.54,"2,882"
+GHS_44,ASH,Q1 2022,"Jan 31, 2022 AMC",11-Nov-21,0.89,535.04
+GHS_44,AVNT,Q4 2021,"Feb 1, 2022 BMO",28-Oct-21,0.54,"1,173"
+GHS_44,MTX,Q4 2021,"Feb 3, 2022 AMC",8-Nov-21,1.17,487.07
+GHS_44,ENTG,Q4 2021,"Feb 8, 2022 BMO",27-Oct-21,0.89,590.95
+GHS_44,AXTA,Q4 2021,"Feb 9, 2022 AMC",27-Oct-21,0.41,"1,164"
+GHS_44,VVV,Q1 2022,"Feb 9, 2022 AMC",5-Nov-21,0.45,826.47
+GHS_44,FMC,Q4 2021,"Feb 9, 2022 AMC",4-Nov-21,2.01,"1,358"
+GHS_44,HUN,Q4 2021,"Feb 16, 2022 BMO",1-Nov-21,0.86,"2,253"
+GHS_44,ALB,Q4 2021,"Feb 16, 2022 AMC","Sep 16, 2021 83 days ago",0.77,856.84
+GHS_44,LIN,Q4 2021,"Feb 17, 2022 BMO",2-Nov-21,2.69,"7,928"
+GHS_44,ECL,Q4 2021,"Feb 22, 2022 BMO",26-Oct-21,1.39,"3,347"
+GHS_44,SCL,Q4 2021,"Feb 24, 2022 BMO",25-Oct-21,1.11,587.96
+GHS_44,KOP,Q4 2021,"Feb 24, 2022 BMO",30-Nov-21,0.71,413.52
+GHS_44,KWR,Q4 2021,"Mar 2, 2022 AMC",8-Nov-21,1.59,449.09
+GHS_44,FUL,Q1 2022,"Mar 30, 2022 AMC","Sep 24, 2021 75 days ago",0.78,834.35
+GHS_44,RPM,Q3 2022,"Apr 7, 2022 BMO","Oct 13, 2021 56 days ago",0.36,"1,306"
+GHS_44,PPG,Q1 2022,"Apr 21, 2022 AMC",25-Oct-21,1.42,"4,186"
+GHS_44,SCL,Q1 2022,"Apr 26, 2022 BMO","Oct 25, 2021 44 days ago",1.8,614.27
+GHS_44,AVNT,Q1 2022,"Apr 26, 2022 BMO",28-Oct-21,0.89,"1,324"
+GHS_44,ENTG,Q1 2022,"Apr 26, 2022 BMO",27-Oct-21,0.92,603.59
+GHS_44,SHW,Q1 2022,"Apr 26, 2022 BMO",27-Oct-21,1.97,"4,808"
+GHS_44,ASH,Q2 2022,"Apr 26, 2022 AMC",11-Nov-21,1.3,575.11
+GHS_44,AXTA,Q1 2022,"Apr 27, 2022 AMC",27-Oct-21,0.39,"1,135"
+GHS_44,VVV,Q2 2022,"Apr 27, 2022 AMC",5-Nov-21,0.5,861.4
+GHS_44,APD,Q2 2022,"Apr 28, 2022 BMO",6-Dec-21,2.51,"2,773"
+GHS_44,HUN,Q1 2022,"Apr 28, 2022 BMO",1-Nov-21,0.9,"2,226"
+GHS_44,CCMP,Q2 2022,"Apr 28, 2022 AMC",12-Nov-21,1.9,312.86
+GHS_44,KWR,Q1 2022,"May 2, 2022 AMC",8-Nov-21,1.87,462.02
+GHS_44,ECL,Q1 2022,"May 3, 2022 BMO",26-Oct-21,1.13,"3,166"
+GHS_44,FMC,Q1 2022,"May 4, 2022 AMC",4-Nov-21,1.7,"1,284"
+GHS_44,MTX,Q1 2022,"May 5, 2022 AMC",8-Nov-21,1.32,507.47
+GHS_44,KOP,Q1 2022,"May 6, 2022 BMO",30-Nov-21,0.87,430.42
+GHS_44,ALB,Q1 2022,"May 11, 2022 AMC","Sep 16, 2021 83 days ago",0.87,825.29
+GHS_44,LIN,Q1 2022,"May 13, 2022 BMO",2-Nov-21,2.78,"8,051"
+GHS_44,FUL,Q2 2022,"Jun 29, 2022 AMC","Sep 24, 2021 75 days ago",1.14,912.66
+GHS_44,PPG,Q2 2022,"Jul 21, 2022 AMC",25-Oct-21,2.31,"5,037"
+GHS_44,RPM,Q4 2022,"Jul 25, 2022 BMO","Oct 13, 2021 56 days ago",1.48,"1,806"
+GHS_44,SHW,Q2 2022,"Jul 26, 2022 BMO",27-Oct-21,2.96,"5,803"
+GHS_44,AVNT,Q2 2022,"Jul 27, 2022 BMO",28-Oct-21,0.97,"1,322"
+GHS_44,SCL,Q2 2022,"Jul 27, 2022 BMO",25-Oct-21,2.1,633.03
+GHS_44,AXTA,Q2 2022,"Jul 27, 2022 AMC",27-Oct-21,0.45,"1,182"
+GHS_44,APD,Q3 2022,"Jul 28, 2022 BMO",6-Dec-21,2.67,"2,839"
+GHS_44,ENTG,Q2 2022,"Jul 28, 2022 BMO","Oct 27, 2021 42 days ago",0.96,614.56
+GHS_44,HUN,Q2 2022,"Jul 28, 2022 BMO",1-Nov-21,1.04,"2,353"
+GHS_44,RPM,Q2 2022,"Jan 5, 2022 BMO","Apr 8, 2021 244 days ago",1.16,"1,555"
+Analyst_4544968,PPG,Q4 2021,"Jan 20, 2022 AMC","Jun 11, 2021 180 days ago",1.83,"4,360"
+Analyst_4544968,FUL,Q4 2021,"Jan 26, 2022 AMC","Mar 25, 2021 258 days ago",1.06,830.02
+Analyst_4544968,SHW,Q4 2021,"Jan 27, 2022 BMO","Jun 10, 2021 181 days ago",1.86,"4,674"
+Analyst_4544968,CCMP,Q1 2022,"Jan 27, 2022 AMC","May 12, 2021 210 days ago",2.07,319.94
+Analyst_4544968,APD,Q1 2022,"Jan 28, 2022 BMO","May 13, 2021 209 days ago",2.59,"2,650"
+Analyst_4544968,ASH,Q1 2022,"Jan 31, 2022 AMC","Jun 11, 2021 180 days ago",1.13,600.31
+Analyst_4544968,AVNT,Q4 2021,"Feb 1, 2022 BMO","May 6, 2021 216 days ago",0.59,"1,026"
+Analyst_4544968,MTX,Q4 2021,"Feb 3, 2022 AMC","May 10, 2021 212 days ago",1.24,456.8
+Analyst_4544968,ENTG,Q4 2021,"Feb 8, 2022 BMO","Apr 29, 2021 223 days ago",0.86,582.32
+Analyst_4544968,AXTA,Q4 2021,"Feb 9, 2022 AMC","Apr 28, 2021 224 days ago",0.54,"1,186"
+Analyst_4544968,VVV,Q1 2022,"Feb 9, 2022 AMC","May 19, 2021 203 days ago",0.45,730.04
+Analyst_4544968,FMC,Q4 2021,"Feb 9, 2022 AMC","May 12, 2021 210 days ago",2.13,"1,352"
+Analyst_4544968,HUN,Q4 2021,"Feb 16, 2022 BMO","May 3, 2021 219 days ago",0.57,"1,924"
+Analyst_4544968,ALB,Q4 2021,"Feb 16, 2022 AMC","May 25, 2021 197 days ago",1.07,936.31
+Analyst_4544968,LIN,Q4 2021,"Feb 17, 2022 BMO","May 18, 2021 204 days ago",2.51,"7,527"
+Analyst_4544968,ECL,Q4 2021,"Feb 22, 2022 BMO","May 21, 2021 201 days ago",1.55,"3,353"
+Analyst_4544968,SCL,Q4 2021,"Feb 24, 2022 BMO","Jun 15, 2021 176 days ago",1.35,542.52
+Analyst_4544968,KOP,Q4 2021,"Feb 24, 2022 BMO","May 18, 2021 204 days ago",0.67,405.58
+Analyst_4544968,KWR,Q4 2021,"Mar 2, 2022 AMC","May 18, 2021 204 days ago",1.95,424.25
+Analyst_4544968,FUL,Q1 2022,"Mar 30, 2022 AMC","Mar 25, 2021 258 days ago",0.7,743.68
+Analyst_4544968,RPM,Q3 2022,"Apr 7, 2022 BMO","Apr 8, 2021 244 days ago",0.47,"1,308"
+Analyst_4544968,PPG,Q1 2022,"Apr 21, 2022 AMC","Jun 11, 2021 180 days ago",2.08,"4,330"
+Analyst_4544968,SCL,Q1 2022,"Apr 26, 2022 BMO","Jun 15, 2021 176 days ago",2.05,571.34
+Analyst_4544968,AVNT,Q1 2022,"Apr 26, 2022 BMO","May 6, 2021 216 days ago",0.95,"1,184"
+Analyst_4544968,ENTG,Q1 2022,"Apr 26, 2022 BMO","Apr 29, 2021 223 days ago",0.87,573.93
+Analyst_4544968,SHW,Q1 2022,"Apr 26, 2022 BMO","Jun 10, 2021 181 days ago",2.01,"4,746"
+Analyst_4544968,ASH,Q2 2022,"Apr 26, 2022 AMC","Jun 11, 2021 180 days ago",1.61,667.22
+Analyst_4544968,AXTA,Q1 2022,"Apr 27, 2022 AMC","Apr 28, 2021 224 days ago",0.52,"1,147"
+Analyst_4544968,VVV,Q2 2022,"Apr 27, 2022 AMC","May 19, 2021 203 days ago",0.52,772.68
+Analyst_4544968,APD,Q2 2022,"Apr 28, 2022 BMO","May 13, 2021 209 days ago",2.64,"2,705"
+Analyst_4544968,HUN,Q1 2022,"Apr 28, 2022 BMO","May 3, 2021 219 days ago",0.65,"1,923"
+Analyst_4544968,CCMP,Q2 2022,"Apr 28, 2022 AMC","May 12, 2021 210 days ago",2.01,321.02
+Analyst_4544968,KWR,Q1 2022,"May 2, 2022 AMC","May 18, 2021 204 days ago",2.2,451.85
+Analyst_4544968,ECL,Q1 2022,"May 3, 2022 BMO","May 21, 2021 201 days ago",1.21,"3,160"
+Analyst_4544968,FMC,Q1 2022,"May 4, 2022 AMC","May 12, 2021 210 days ago",1.88,"1,302"
+Analyst_4544968,MTX,Q1 2022,"May 5, 2022 AMC","May 10, 2021 212 days ago",1.28,469.72
+Analyst_4544968,KOP,Q1 2022,"May 6, 2022 BMO","May 18, 2021 204 days ago",0.87,430.84
+Analyst_4544968,ALB,Q1 2022,"May 11, 2022 AMC","May 25, 2021 197 days ago",0.83,842.86
+Analyst_4544968,LIN,Q1 2022,"May 13, 2022 BMO","May 18, 2021 204 days ago",2.67,"7,638"
+Analyst_4544968,FUL,Q2 2022,"Jun 29, 2022 AMC","Mar 25, 2021 258 days ago",1.06,814.61
+Analyst_4544968,PPG,Q2 2022,"Jul 21, 2022 AMC","Jun 11, 2021 180 days ago",2.55,"5,021"
+Analyst_4544968,RPM,Q4 2022,"Jul 25, 2022 BMO","Apr 8, 2021 244 days ago",1.59,"1,777"
+Analyst_4544968,SHW,Q2 2022,"Jul 26, 2022 BMO","Jun 10, 2021 181 days ago",3.06,"5,637"
+Analyst_4544968,AVNT,Q2 2022,"Jul 27, 2022 BMO","May 6, 2021 216 days ago",0.97,"1,184"
+Analyst_4544968,SCL,Q2 2022,"Jul 27, 2022 BMO","Jun 15, 2021 176 days ago",2.19,587.39
+Analyst_4544968,AXTA,Q2 2022,"Jul 27, 2022 AMC","Apr 28, 2021 224 days ago",0.54,"1,170"
+Analyst_4544968,APD,Q3 2022,"Jul 28, 2022 BMO","May 13, 2021 209 days ago",2.71,"2,721"
+Analyst_4544968,ENTG,Q2 2022,"Jul 28, 2022 BMO","Apr 29, 2021 223 days ago",0.91,585.74
+Analyst_4544968,HUN,Q2 2022,"Jul 28, 2022 BMO","May 3, 2021 219 days ago",0.75,"2,020"
+Analyst_4544968,GILD,Q4 2021,"Feb 8, 2022 AMC","Apr 29, 2021 223 days ago",1.73,"6,076"
+Analyst_4544968,BGCP,Q4 2021,"Feb 10, 2022 BMO","Apr 29, 2021 223 days ago",0.15,531.25
+Bramdehaas,BGCP,Q1 2022,"Apr 28, 2022 BMO","Apr 29, 2021 223 days ago",0.22,655.75
+Bramdehaas,,,,,,
+Bramdehaas,,,,,,
+Bramdehaas,,,,,,
+Analyst_4339425,,,,,,
+tlm1tlm,,,,,,
+Analyst_9614248,,,,,,
+Analyst_3653475,,,,,,
+Analyst_4566188,,,,,,
+Analyst_2045641,,,,,,
+Analyst_4642668,,,,,,
+RWDKPD,,,,,,
+thatsarahlewis,,,,,,
+Analyst_8717904,,,,,,
+Ali_Baba,,,,,,
+Pearl_1,,,,,,
+Analyst_3354713,,,,,,
+Analyst_8740570,,,,,,
+Analyst_11375,,,,,,
+Analyst_5984702,,,,,,
+Analyst_8481310,,,,,,
+Analyst_7624722,,,,,,
+Canaccord_163,,,,,,
+Cantor_20,,,,,,
+Needham_56,,,,,,
+Suntrust_58,,,,,,
+Suntrust_111,,,,,,
+GHS_4,,,,,,
+upandtotheright,,,,,,
+Analyst_JPMac,,,,,,
+Oppenheimer_63,,,,,,
+nsdtrading1970,,,,,,
+Analyst_4544967,,,,,,
+Suntrust_9,,,,,,
+Suntrust_83,,,,,,
+rbrandx,,,,,,
+Analyst_1438644,,,,,,
+Analyst_2072466,,,,,,
+Analyst_4192538,,,,,,
+SS_GQS,,,,,,
+Bigorangedave,,,,,,
+James_Gnome,,,,,,
+Analyst_183214,,,,,,
+Reaver,,,,,,
+Analyst_671021,,,,,,
+Analyst_802763,,,,,,
+euribe25,,,,,,
+karowlinger,,,,,,
+OpusPgladiator,,,,,,
+Canaccord_201,,,,,,
+Oppenheimer_45,,,,,,
+382sr00,,,,,,
+Analyst_387775,,,,,,
+KenCatucci,,,,,,
+Analyst_2312765,,,,,,
+Roth_10,,,,,,
+Analyst_4976102,,,,,,
+ghuggie,,,,,,
+Analyst_9845722,,,,,,
+Hoysala,,,,,,
+Analyst_7972627,,,,,,
+Analyst_939213,,,,,,
+Analyst_6127515,,,,,,
+oakcrest12,,,,,,
+Cantor_37,,,,,,
+Needham_23,,,,,,
+Analyst_4130993,,,,,,
+LucentOne,,,,,,
+Analyst_1398534,,,,,,
+Pavel_Kaleda,,,,,,
+Analyst_2861660,,,,,,
+bdarbe11,,,,,,
+Analyst_6708666,,,,,,
+GHS_48,,,,,,
+GHS_22,,,,,,
+Analyst_3823532,,,,,,
+Analyst_8202295,,,,,,
+Suntrust_43,,,,,,
+Analyst_5498960,,,,,,
+Analyst_2607819,,,,,,
+HappyEstimates,,,,,,
+Madmoni,,,,,,
+Suntrust_101,,,,,,
+Suntrust_41,,,,,,
+Analyst_4521605,,,,,,
+Jodylon,,,,,,
+Analyst_5657908,,,,,,
+agent4036,,,,,,
+SanilJohn,,,,,,
+Analyst_3974749,,,,,,
+DebtCliff,,,,,,
+Analyst_7788099,,,,,,
+swarthy,,,,,,
+Tag_6,,,,,,
+Analyst_2467525,,,,,,
+Analyst_530056,,,,,,
+Analyst_1529790,,,,,,
+Analyst_9307651,,,,,,
+analyst_id,Ticker,Quarter,Reports,Published,EPS,Revenue
+Analyst_904827,COST,Q1 2022,"Dec 9, 2021 AMC","Sep 23, 2021 76 days ago",2.7,"47,000"
+Analyst_7759232,COST,Q2 2022,"Mar 3, 2022 AMC","Sep 23, 2021 76 days ago",2.6,"49,000"
+Analyst_3715541,COST,Q3 2022,"May 26, 2022 AMC","Sep 23, 2021 76 days ago",2.81,"50,000"
+Analyst_2978829,AIMC,Q4 2021,"Feb 17, 2022 BMO","May 1, 2021 221 days ago",0.8,460
+Analyst_2978829,AIMC,Q1 2022,"Apr 29, 2022 BMO","May 1, 2021 221 days ago",0.9,500
+Analyst_2978829,NFLX,Q4 2021,"Jan 18, 2022 AMC","Oct 19, 2021 49 days ago",1.97,"7,719"
+Analyst_2978829,FB,Q4 2021,"Feb 2, 2022 AMC",25-Oct-21,3.67,"32,971"
+arturomonter,GOOGL,Q4 2021,"Feb 2, 2022 AMC",26-Oct-21,25.06,"70,951"
+GregTripple,AMZN,Q4 2021,"Feb 3, 2022 AMC",1-Dec-21,,"137,515"
+GregTripple,SNAP,Q4 2021,"Feb 8, 2022 AMC","Oct 21, 2021 47 days ago",0.08,"1,184"
+GregTripple,SPOT,Q4 2021,"Feb 9, 2022 BMO",27-Oct-21,,"2,629"
+Analyst_3900592,UBER,Q4 2021,"Feb 9, 2022 AMC",1-Dec-21,,"5,809"
+Canaccord_205,PTON,Q2 2022,"Feb 9, 2022 AMC",1-Dec-21,,"1,151"
+Canaccord_205,TWTR,Q4 2021,"Feb 10, 2022 AMC",26-Oct-21,,"1,561"
+Canaccord_205,ZG,Q4 2021,"Feb 10, 2022 AMC",2-Nov-21,,"2,439"
+Canaccord_205,LYFT,Q4 2021,"Feb 15, 2022 AMC",1-Dec-21,,935.05
+Canaccord_205,TRUP,Q4 2021,"Feb 15, 2022 AMC",3-Nov-21,,193.2
+Canaccord_205,APRN,Q4 2021,"Feb 16, 2022 BMO",9-Nov-21,,110
+Canaccord_205,W,Q4 2021,"Feb 24, 2022 BMO",4-Nov-21,,"3,323"
+Canaccord_205,ABNB,Q4 2021,"Feb 24, 2022 AMC","Dec 1, 2021 6 days ago",-0.15,"1,470"
+Canaccord_205,DKNG,Q4 2021,"Feb 25, 2022 BMO",1-Dec-21,,446.61
+Canaccord_205,EVER,Q4 2021,"Feb 28, 2022 AMC",1-Dec-21,,96.75
+Canaccord_205,ETSY,Q4 2021,"Mar 1, 2022 AMC",4-Nov-21,0.66,676.04
+Canaccord_205,SKLZ,Q4 2021,"Mar 9, 2022 AMC",1-Dec-21,,114.59
+Canaccord_205,SFIX,Q2 2022,"Mar 14, 2022 AMC",7-Dec-21,,513.92
+Canaccord_205,LOVE,Q4 2022,"May 3, 2022 BMO",8-Dec-21,,175.55
+Canaccord_205,PTON,Q3 2022,"May 11, 2022 AMC",1-Dec-21,,"1,445"
+Canaccord_205,SFIX,Q3 2022,"Jun 8, 2022 AMC",7-Dec-21,,541.36
+Canaccord_205,PTON,Q4 2022,"Sep 15, 2022 AMC",1-Dec-21,,"1,198"
+Canaccord_205,SFIX,Q4 2022,"Oct 4, 2022 AMC",7-Dec-21,,625.85
+Canaccord_205,KMI,Q4 2021,"Jan 19, 2022 AMC",23-Nov-21,0.27,"3,592"
+Canaccord_205,JNJ,Q4 2021,"Jan 25, 2022 BMO",16-Nov-21,2.22,"25,264"
+Canaccord_205,EA,Q3 2022,"Feb 1, 2022 AMC",23-Nov-21,3.3,"2,710"
+Canaccord_205,KGC,Q4 2021,"Feb 9, 2022 AMC","Oct 17, 2021 52 days ago",0.16,974.8
+Canaccord_205,CGC,Q3 2022,"Feb 8, 2022 BMO",5-Nov-21,-0.07,135.94
+Canaccord_205,BIG,Q4 2021,"Mar 4, 2022 BMO",5-Dec-21,2.38,"1,769"
+Canaccord_205,AAPL,Q1 2022,"Feb 1, 2022 AMC","Aug 5, 2021 125 days ago",1.84,"118,963"
+Canaccord_205,BABA,Q3 2022,"Feb 2, 2022 BMO","May 7, 2021 215 days ago",3.93,"44,500"
+Analyst_7825399,VRTX,Q4 2021,"Feb 2, 2022 AMC","Jul 30, 2021 131 days ago",3.6,"1,900"
+Analyst_7825399,AOSL,Q2 2022,"Feb 9, 2022 AMC","Jul 30, 2021 131 days ago",0.82,174.7
+Analyst_7825399,KGC,Q4 2021,"Feb 9, 2022 AMC","Aug 2, 2021 128 days ago",0.3,"1,250"
+Analyst_7825399,PLTR,Q4 2021,"Feb 15, 2022 BMO","Aug 2, 2021 128 days ago",0.07,423
+Analyst_7825399,AEM,Q4 2021,"Feb 16, 2022 AMC","Jul 30, 2021 131 days ago",0.9,"1,100"
+SmitandCo,BRK-B,Q4 2021,"Feb 21, 2022 BMO","Aug 2, 2021 128 days ago",3.35,"70,844"
+SmitandCo,FSM,Q4 2021,"Mar 10, 2022 BMO","Jul 30, 2021 131 days ago",0.2,210
+SmitandCo,AG,Q4 2021,"Mar 17, 2022 BMO","Aug 18, 2021 112 days ago",0.14,115
+Analyst_1701623,VRTX,Q1 2022,"Apr 28, 2022 AMC","Jul 30, 2021 131 days ago",3.7,"1,950"
+Analyst_5940717,AEM,Q1 2022,"Apr 28, 2022 AMC","Jul 30, 2021 131 days ago",1,"1,100"
+Analyst_7227115,BRK-B,Q1 2022,"May 2, 2022 BMO","Aug 2, 2021 128 days ago",3.05,"69,271"
+Analyst_7227115,AAPL,Q2 2022,"May 3, 2022 AMC","Aug 5, 2021 125 days ago",1.33,"89,000"
+Analyst_7227115,AOSL,Q3 2022,"May 4, 2022 AMC","Jul 30, 2021 131 days ago",0.84,176.77
+Analyst_7227115,AG,Q1 2022,"May 5, 2022 AMC","Aug 18, 2021 112 days ago",0.19,120
+Analyst_7227115,FSM,Q1 2022,"May 9, 2022 BMO","Jul 30, 2021 131 days ago",0.19,185
+Analyst_7227115,PLTR,Q1 2022,"May 10, 2022 BMO","Aug 2, 2021 128 days ago",0.08,435
+Analyst_7227115,KGC,Q1 2022,"May 10, 2022 AMC","Aug 2, 2021 128 days ago",0.24,"1,300"
+Analyst_7227115,BMY,Q4 2021,"Feb 4, 2022 BMO",27-Oct-21,1.95,"12,212"
+Analyst_7227115,AVGO,Q4 2021,"Dec 9, 2021 AMC",2-Dec-21,7.64,"7,235"
+Analyst_7227115,COST,Q1 2022,"Dec 9, 2021 AMC",2-Dec-21,2.96,"57,500"
+Analyst_7227115,ABM,Q4 2021,"Dec 15, 2021 BMO","Oct 19, 2021 50 days ago",1.02,"1,795"
+Analyst_7227115,KRUS,Q1 2022,"Jan 11, 2022 AMC",12-Nov-21,-0.13,28.48
+Analyst_7227115,VZ,Q4 2021,"Jan 25, 2022 BMO",26-Oct-21,1.26,"33,628"
+Analyst_7227115,TXN,Q4 2021,"Jan 26, 2022 AMC",26-Oct-21,1.89,"4,276"
+Analyst_7227115,OTIS,Q4 2021,"Jan 31, 2022 BMO",26-Oct-21,0.74,"3,571"
+Analyst_7227115,NEU,Q4 2021,"Feb 1, 2022 AMC","Oct 19, 2021 50 days ago",6.36,588.09
+Analyst_7227115,EZPW,Q1 2022,"Feb 2, 2022 AMC","Oct 19, 2021 50 days ago",0.13,208.49
+Analyst_7227115,GPRE,Q4 2021,"Feb 9, 2022 BMO",12-Nov-21,-0.3,702.99
+Analyst_7227115,THS,Q4 2021,"Feb 10, 2022 BMO","Oct 19, 2021 50 days ago",0.07,"1,227"
+Analyst_7227115,CPB,Q2 2022,"Feb 18, 2022 BMO","Oct 19, 2021 50 days ago",0.62,"2,217"
+Analyst_3343247,VMI,Q4 2021,"Feb 23, 2022 AMC",26-Oct-21,2.58,846.29
+Analyst_5300825,SFL,Q4 2021,"Mar 1, 2022 BMO","Aug 18, 2021 112 days ago",0.05,96.18
+LivefrmDaGutter,ABM,Q1 2022,"Mar 8, 2022 AMC","Oct 19, 2021 50 days ago",1.05,"1,803"
+Analyst_1592846,KRUS,Q2 2022,"Apr 19, 2022 AMC",12-Nov-21,-0.07,32.54
+Nobby,VMI,Q1 2022,"Apr 20, 2022 AMC",26-Oct-21,3.37,847.02
+Nobby,VZ,Q1 2022,"Apr 22, 2022 BMO",26-Oct-21,1.21,"31,061"
+Analyst_9037722,TXN,Q1 2022,"Apr 26, 2022 AMC",26-Oct-21,1.83,"4,499"
+Analyst_1681857,NEU,Q1 2022,"Apr 27, 2022 AMC","Oct 19, 2021 50 days ago",6.74,609.78
+Analyst_2816520,GPRE,Q1 2022,"May 2, 2022 BMO",12-Nov-21,-0.22,614.75
+Analyst_822652,EZPW,Q2 2022,"May 4, 2022 AMC","Oct 19, 2021 50 days ago",0.02,202.05
+In_Ernest,THS,Q1 2022,"May 5, 2022 BMO","Oct 19, 2021 50 days ago",0.22,"1,068"
+Analyst_1306551,OTIS,Q1 2022,"May 12, 2022 BMO",26-Oct-21,0.65,"3,394"
+Analyst_2910435,CPB,Q3 2022,"May 20, 2022 BMO","Oct 19, 2021 50 days ago",0.58,"1,992"
+ValionCapital,SFL,Q1 2022,"May 31, 2022 BMO","Aug 18, 2021 112 days ago",0.05,95.31
+ValionCapital,ABM,Q2 2022,"Jun 8, 2022 AMC","Oct 19, 2021 50 days ago",1.05,"1,808"
+ValionCapital,KRUS,Q3 2022,"Jul 19, 2022 AMC",12-Nov-21,-0.13,35.56
+Analyst_4716043,VMI,Q2 2022,"Jul 20, 2022 AMC",26-Oct-21,3.62,980.2
+Analyst_4716043,VZ,Q2 2022,"Jul 22, 2022 BMO",26-Oct-21,1.22,"31,650"
+Analyst_4716043,TXN,Q2 2022,"Jul 26, 2022 AMC",26-Oct-21,2.08,"4,798"
+Analyst_4716043,GPRE,Q2 2022,"Aug 1, 2022 BMO",12-Nov-21,-0.28,644.37
+Analyst_4716043,OTIS,Q2 2022,"Aug 2, 2022 BMO",26-Oct-21,0.7,"3,674"
+Analyst_4716043,NEU,Q2 2022,"Aug 3, 2022 AMC","Oct 19, 2021 50 days ago",6.92,620.26
+Analyst_4716043,EZPW,Q3 2022,"Aug 3, 2022 AMC","Oct 19, 2021 50 days ago",0.22,202.29
+Analyst_4716043,THS,Q2 2022,"Aug 4, 2022 BMO","Oct 19, 2021 50 days ago",0.22,"1,013"
+Analyst_4716043,SFL,Q2 2022,"Aug 23, 2022 BMO","Aug 18, 2021 112 days ago",0.01,101.47
+Analyst_4716043,CPB,Q4 2022,"Sep 1, 2022 BMO","Oct 19, 2021 50 days ago",0.53,"1,912"
+Analyst_4716043,ABM,Q3 2022,"Sep 7, 2022 AMC","Oct 19, 2021 50 days ago",1.04,"1,855"
+Analyst_4716043,VMI,Q3 2022,"Oct 19, 2022 AMC",26-Oct-21,4.81,949.67
+Analyst_4716043,VZ,Q3 2022,"Oct 21, 2022 BMO",26-Oct-21,1.36,"31,554"
+Analyst_4716043,TXN,Q3 2022,"Oct 25, 2022 AMC",26-Oct-21,2.11,"4,861"
+Analyst_4716043,OTIS,Q3 2022,"Oct 31, 2022 BMO",26-Oct-21,0.74,"3,645"
+Analyst_4716043,GPRE,Q3 2022,"Nov 2, 2022 BMO",12-Nov-21,-0.24,636.27
+Analyst_4716043,KRUS,Q4 2022,"Nov 10, 2022 AMC",12-Nov-21,-0.22,37.48
+Analyst_4716043,MESA,Q4 2021,"Dec 9, 2021 AMC","Sep 20, 2021 79 days ago",0.12,148
+Analyst_4716043,COST,Q1 2022,"Dec 9, 2021 AMC",2-Dec-21,2.7,"53,694"
+Analyst_4716043,LULU,Q3 2021,"Dec 9, 2021 AMC",2-Dec-21,1.55,"1,466"
+Analyst_4716043,ADBE,Q4 2021,"Dec 16, 2021 AMC",8-Dec-21,3.21,"4,119"
+Analyst_4716043,NKE,Q2 2022,"Dec 20, 2021 AMC",8-Dec-21,0.78,"11,511"
+Analyst_4716043,RAD,Q3 2022,"Dec 21, 2021 BMO",8-Dec-21,-0.2,"6,232"
+Analyst_4716043,GIS,Q2 2022,"Dec 21, 2021 BMO",8-Dec-21,1.03,"4,830"
+Analyst_4716043,WBA,Q1 2022,"Jan 6, 2022 BMO",8-Dec-21,1.34,"32,599"
+Analyst_4716043,C,Q4 2021,"Jan 14, 2022 BMO",8-Dec-21,1.91,"17,242"
+Analyst_4716043,JPM,Q4 2021,"Jan 14, 2022 BMO",8-Dec-21,3.04,"30,240"
+Analyst_4716043,GS,Q4 2021,"Jan 18, 2022 BMO",2-Dec-21,12,"12,590"
+Analyst_4716043,BAC,Q4 2021,"Jan 18, 2022 BMO",2-Dec-21,0.8,"21,942"
+Analyst_4716043,NFLX,Q4 2021,"Jan 18, 2022 AMC",8-Dec-21,1.43,"7,741"
+Analyst_4716043,KMI,Q4 2021,"Jan 19, 2022 AMC",4-Nov-21,0.28,"3,477"
+Analyst_4716043,MS,Q4 2021,"Jan 20, 2022 BMO",2-Dec-21,1.99,"14,500"
+Analyst_4716043,MCD,Q4 2021,"Jan 24, 2022 BMO",2-Dec-21,2.44,"6,000"
+Analyst_4716043,IBM,Q4 2021,"Jan 24, 2022 AMC",8-Dec-21,3.61,"18,575"
+Analyst_4716043,TRV,Q4 2021,"Jan 25, 2022 BMO","Oct 12, 2021 57 days ago",3.73,"8,720"
+Analyst_4716043,JNJ,Q4 2021,"Jan 25, 2022 BMO","Jul 20, 2021 141 days ago",2.3,"24,341"
+Analyst_4716043,PG,Q2 2022,"Jan 25, 2022 BMO","Jul 28, 2021 133 days ago",1.71,"20,229"
+Analyst_4716043,MMM,Q4 2021,"Jan 25, 2022 BMO","Oct 22, 2021 47 days ago",2.34,"8,746"
+Analyst_4716043,VZ,Q4 2021,"Jan 25, 2022 BMO","Oct 8, 2021 61 days ago",1.31,"35,465"
+Analyst_4716043,KMB,Q4 2021,"Jan 26, 2022 BMO","Oct 22, 2021 47 days ago",1.94,"5,110"
+Analyst_4716043,BA,Q4 2021,"Jan 26, 2022 BMO",26-Oct-21,0.92,"24,171"
+Analyst_4716043,CP,Q4 2021,"Jan 26, 2022 BMO","Oct 11, 2021 58 days ago",0.86,"1,749"
+Analyst_4716043,T,Q4 2021,"Jan 26, 2022 BMO","Oct 22, 2021 47 days ago",0.77,"44,138"
+Analyst_4716043,ITW,Q4 2021,"Jan 26, 2022 BMO","Jul 28, 2021 133 days ago",2.26,"3,682"
+Analyst_9457450,FCX,Q4 2021,"Jan 27, 2022 BMO","Jul 20, 2021 141 days ago",0.75,"6,000"
+CashProphet,MO,Q4 2021,"Jan 27, 2022 BMO","Jul 28, 2021 133 days ago",1.06,"5,039"
+CashProphet,IP,Q4 2021,"Jan 27, 2022 BMO",26-Oct-21,1.55,"5,708"
+Drogness,CAT,Q4 2021,"Jan 27, 2022 BMO","Jul 28, 2021 133 days ago",2.44,"12,757"
+Drogness,GE,Q4 2021,"Jan 27, 2022 BMO","Oct 22, 2021 47 days ago",0.96,"22,398"
+Drogness,DOW,Q4 2021,"Jan 27, 2022 BMO","Aug 26, 2021 104 days ago",1.84,"12,980"
+Drogness,MSFT,Q2 2022,"Jan 27, 2022 AMC","Oct 22, 2021 47 days ago",2.25,"49,003"
+Drogness,F,Q4 2021,"Jan 27, 2022 AMC",27-Oct-21,0.3,"42,326"
+Drogness,CVX,Q4 2021,"Jan 28, 2022 BMO","Sep 28, 2021 71 days ago",1.97,"39,098"
+Drogness,ABBV,Q4 2021,"Jan 28, 2022 BMO",29-Oct-21,3.31,"15,090"
+Drogness,CIT,Q4 2021,"Feb 1, 2022 BMO","Oct 22, 2021 47 days ago",1.13,498.25
+Drogness,PFE,Q4 2021,"Feb 1, 2022 BMO",1-Nov-21,0.87,"24,488"
+Drogness,XOM,Q4 2021,"Feb 1, 2022 BMO",29-Oct-21,1.35,"81,435"
+Drogness,NUE,Q4 2021,"Feb 1, 2022 BMO","Oct 11, 2021 58 days ago",7.08,"9,783"
+Drogness,XRX,Q4 2021,"Feb 1, 2022 BMO","Oct 22, 2021 47 days ago",0.72,"1,950"
+Drogness,GM,Q4 2021,"Feb 1, 2022 BMO",26-Oct-21,1.62,"37,830"
+Drogness,PBI,Q4 2021,"Feb 1, 2022 BMO",2-Nov-21,0.12,"1,022"
+Drogness,AAPL,Q1 2022,"Feb 1, 2022 AMC",25-Oct-21,1.87,"119,000"
+Drogness,CB,Q4 2021,"Feb 1, 2022 AMC",26-Oct-21,3.41,"8,665"
+Drogness,BABA,Q3 2022,"Feb 2, 2022 BMO",2-Nov-21,3.25,"42,780"
+Drogness,EBAY,Q4 2021,"Feb 2, 2022 AMC","Aug 4, 2021 125 days ago",1.03,"3,108"
+Drogness,TSLA,Q4 2021,"Feb 2, 2022 AMC","Sep 28, 2021 71 days ago",1.4,"14,209"
+Drogness,UNM,Q4 2021,"Feb 2, 2022 AMC",1-Nov-21,1.22,"2,969"
+Drogness,MET,Q4 2021,"Feb 2, 2022 AMC",2-Nov-21,1.63,"17,138"
+Drogness,OXY,Q4 2021,"Feb 15, 2022 AMC",17-Nov-21,0.93,"7,741"
+Drogness,MU,Q1 2022,"Dec 20, 2021 AMC",2-Dec-21,2.37,"7,877"
+Drogness,JPM,Q4 2021,"Jan 14, 2022 BMO",19-Nov-21,2.97,"29,828"
+Drogness,NFLX,Q4 2021,"Jan 18, 2022 AMC",21-Nov-21,0.92,"7,800"
+Drogness,MS,Q4 2021,"Jan 20, 2022 BMO",19-Nov-21,1.94,"14,739"
+Drogness,AMD,Q4 2021,"Feb 1, 2022 AMC",2-Dec-21,0.87,"4,737"
+Drogness,TSLA,Q4 2021,"Feb 2, 2022 AMC",21-Nov-21,1.97,"15,575"
+Drogness,OXY,Q4 2021,"Feb 15, 2022 AMC",19-Nov-21,1.07,"7,371"
+Drogness,NVDA,Q4 2022,"Feb 17, 2022 AMC",21-Nov-21,1.04,"7,392"
+Drogness,BOX,Q4 2022,"Mar 2, 2022 AMC",1-Dec-21,0.25,229.74
+Drogness,SNOW,Q4 2022,"Mar 2, 2022 AMC",2-Dec-21,0.07,387.88
+Drogness,MRVL,Q4 2022,"Mar 10, 2022 AMC",3-Dec-21,0.54,"1,297"
+Drogness,CRWD,Q4 2022,"Mar 24, 2022 AMC",2-Dec-21,0.24,417.87
+Drogness,MSFT,Q2 2022,"Jan 27, 2022 AMC","Oct 8, 2021 61 days ago",2.75,"51,900"
+Drogness,AAPL,Q1 2022,"Feb 1, 2022 AMC","Oct 8, 2021 61 days ago",2.2,"125,500"
+Drogness,FB,Q4 2021,"Feb 2, 2022 AMC","Oct 8, 2021 61 days ago",5.25,"36,500"
+Drogness,TSLA,Q4 2021,"Feb 2, 2022 AMC","Oct 8, 2021 61 days ago",2.25,"16,500"
+Drogness,GOOGL,Q4 2021,"Feb 2, 2022 AMC","Oct 8, 2021 61 days ago",31.3,"62,400"
+Drogness,ALGN,Q4 2021,"Feb 3, 2022 AMC","Oct 8, 2021 61 days ago",3.15,"1,060"
+Drogness,AMZN,Q4 2021,"Feb 3, 2022 AMC","May 23, 2021 199 days ago",12.5,"115,000"
+Drogness,COIN,Q4 2021,"Feb 10, 2022 AMC","Oct 8, 2021 61 days ago",1.95,"1,650"
+Drogness,OXY,Q4 2021,"Feb 15, 2022 AMC","Oct 8, 2021 61 days ago",0.66,"6,350"
+Drogness,AMAT,Q1 2022,"Feb 16, 2022 AMC","Jul 18, 2021 143 days ago",1.95,"6,300"
+Drogness,NVDA,Q4 2022,"Feb 17, 2022 AMC","Jul 18, 2021 143 days ago",0.81,"6,320"
+Drogness,ZM,Q4 2022,"Mar 9, 2022 AMC","Oct 8, 2021 61 days ago",1.2,"1,155"
+Drogness,DOCU,Q4 2022,"Mar 17, 2022 AMC","Oct 8, 2021 61 days ago",0.48,595
+Drogness,RH,Q4 2021,"Mar 29, 2022 AMC","Jun 19, 2021 172 days ago",5.95,905
+Drogness,GOOGL,Q1 2022,"Apr 27, 2022 AMC","Oct 8, 2021 61 days ago",29.25,"59,500"
+Drogness,ALGN,Q1 2022,"Apr 27, 2022 AMC","Oct 8, 2021 61 days ago",3.3,"1,125"
+Drogness,FB,Q1 2022,"Apr 27, 2022 AMC","Oct 8, 2021 61 days ago",5.1,"34,500"
+Analyst_3993648,AMZN,Q1 2022,"Apr 28, 2022 AMC","May 23, 2021 199 days ago",14.5,"120,000"
+WonterC,MSFT,Q3 2022,"Apr 28, 2022 AMC","Oct 8, 2021 61 days ago",2.95,"51,500"
+Aldin87,AAPL,Q2 2022,"May 3, 2022 AMC","Oct 8, 2021 61 days ago",1.65,"95,500"
+Aldin87,TSLA,Q1 2022,"May 4, 2022 AMC","Oct 8, 2021 61 days ago",2.15,"17,750"
+Analyst_5178017,OXY,Q1 2022,"May 5, 2022 AMC","Oct 8, 2021 61 days ago",0.61,"6,125"
+Analyst_5178017,NVDA,Q1 2023,"May 12, 2022 AMC","Jul 18, 2021 143 days ago",0.74,"6,150"
+Analyst_5178017,COIN,Q1 2022,"May 12, 2022 AMC","Oct 8, 2021 61 days ago",2.1,"1,750"
+Analyst_5178017,AMAT,Q2 2022,"May 19, 2022 AMC","Jul 18, 2021 143 days ago",2,"6,450"
+Analyst_5178017,RH,Q1 2022,"Jun 8, 2022 AMC","Jun 19, 2021 172 days ago",5.85,825
+Analyst_5178017,ZM,Q1 2023,"Jun 8, 2022 AMC","Oct 8, 2021 61 days ago",1.2,"1,250"
+Analyst_5178017,DOCU,Q1 2023,"Jun 9, 2022 AMC","Oct 8, 2021 61 days ago",0.53,610
+Analyst_5178017,MUR,Q4 2021,"Jan 26, 2022 BMO",7-Nov-21,0.45,
+Analyst_5178017,CVX,Q4 2021,"Jan 28, 2022 BMO",1-Nov-21,3.04,
+Analyst_5178017,CNX,Q4 2021,"Feb 1, 2022 BMO",28-Oct-21,0.39,
+Analyst_5178017,XOM,Q4 2021,"Feb 1, 2022 BMO",2-Nov-21,1.4,
+Analyst_5178017,COP,Q4 2021,"Feb 3, 2022 BMO",2-Nov-21,2.21,
+Analyst_5178017,PXD,Q4 2021,"Feb 8, 2022 AMC",4-Nov-21,4.68,
+Analyst_8096201,FANG,Q4 2021,"Feb 15, 2022 AMC",7-Dec-21,3.48,
+Analyst_8096201,DVN,Q4 2021,"Feb 15, 2022 AMC",3-Nov-21,1.22,
+Analyst_8096201,OXY,Q4 2021,"Feb 15, 2022 AMC",7-Nov-21,0.94,
+Analyst_8096201,AR,Q4 2021,"Feb 16, 2022 AMC",28-Oct-21,0.48,
+Analyst_8096201,MRO,Q4 2021,"Feb 16, 2022 AMC",4-Nov-21,0.57,
+Analyst_8096201,EQT,Q4 2021,"Feb 17, 2022 AMC",28-Oct-21,0.59,
+Analyst_8096201,SM,Q4 2021,"Feb 23, 2022 AMC","Oct 15, 2020 419 days ago",-0.41,
+Analyst_8096201,RRC,Q4 2021,"Feb 23, 2022 AMC",27-Oct-21,0.84,
+Analyst_8096201,MTDR,Q4 2021,"Feb 23, 2022 AMC",27-Oct-21,1.18,
+Analyst_8096201,CLR,Q4 2021,"Feb 23, 2022 AMC",4-Nov-21,1.63,
+Analyst_8096201,OVV,Q4 2021,"Feb 24, 2022 AMC",4-Nov-21,1.7,
+Analyst_8096201,SWN,Q4 2021,"Feb 24, 2022 AMC",8-Nov-21,0.6,
+Analyst_8096201,APA,Q4 2021,"Feb 24, 2022 AMC",4-Nov-21,1.66,
+Analyst_8096201,CRK,Q4 2021,"Feb 24, 2022 AMC",3-Nov-21,0.73,
+Analyst_8096201,CDEV,Q4 2021,"Feb 28, 2022 AMC",7-Nov-21,0.32,
+Analyst_8096201,EOG,Q4 2021,"Mar 1, 2022 AMC",7-Nov-21,3.09,
+Analyst_8096201,NOG,Q4 2021,"Mar 2, 2022 BMO",18-Nov-21,1.13,
+Analyst_8096201,CPE,Q4 2021,"Mar 2, 2022 AMC",5-Nov-21,3.15,
+Analyst_8096201,PDCE,Q4 2021,"Mar 2, 2022 AMC",7-Nov-21,1.95,
+Analyst_8096201,RRC,Q1 2022,"Apr 25, 2022 AMC",27-Oct-21,0.94,
+Analyst_8096201,AR,Q1 2022,"Apr 27, 2022 AMC",28-Oct-21,0.92,
+Analyst_8096201,SWN,Q1 2022,"Apr 28, 2022 AMC",29-Nov-21,0.65,
+Analyst_8096201,EQT,Q1 2022,"Apr 28, 2022 AMC",28-Oct-21,0.9,
+Analyst_8096201,XOM,Q1 2022,"Apr 29, 2022 BMO",2-Nov-21,1.39,
+Analyst_8096201,CVX,Q1 2022,"Apr 29, 2022 BMO",1-Nov-21,2.55,
+Analyst_8096201,COP,Q1 2022,"May 3, 2022 BMO",2-Nov-21,2.3,
+Analyst_8096201,CNX,Q1 2022,"May 3, 2022 BMO",28-Oct-21,0.37,
+Analyst_8096201,SM,Q1 2022,"May 3, 2022 AMC","Oct 15, 2020 419 days ago",-0.13,
+Analyst_8096201,DVN,Q1 2022,"May 3, 2022 AMC",3-Nov-21,1.4,
+Suntrust_90,FANG,Q1 2022,"May 3, 2022 AMC",7-Dec-21,4.52,
+Suntrust_90,MUR,Q1 2022,"May 4, 2022 BMO",7-Nov-21,0.84,
+Suntrust_90,PDCE,Q1 2022,"May 4, 2022 AMC",7-Dec-21,2.22,
+Suntrust_90,CPE,Q1 2022,"May 4, 2022 AMC",5-Nov-21,3.47,
+Suntrust_90,MTDR,Q1 2022,"May 4, 2022 AMC",27-Oct-21,1.87,
+Suntrust_90,PXD,Q1 2022,"May 4, 2022 AMC",4-Nov-21,5.69,
+Suntrust_90,MRO,Q1 2022,"May 4, 2022 AMC",4-Nov-21,0.61,
+Suntrust_90,APA,Q1 2022,"May 4, 2022 AMC",4-Nov-21,1.39,
+Suntrust_90,CLR,Q1 2022,"May 4, 2022 AMC",4-Nov-21,1.68,
+Suntrust_90,EOG,Q1 2022,"May 5, 2022 AMC",7-Nov-21,2.49,
+Suntrust_90,OXY,Q1 2022,"May 5, 2022 AMC",7-Nov-21,0.97,
+Suntrust_90,NOG,Q1 2022,"May 9, 2022 BMO",18-Nov-21,1.74,
+Suntrust_90,CDEV,Q1 2022,"May 9, 2022 AMC",7-Nov-21,0.32,
+Suntrust_90,OVV,Q1 2022,"May 12, 2022 AMC",4-Nov-21,2.52,
+Suntrust_90,CRK,Q1 2022,"May 12, 2022 AMC",3-Nov-21,0.81,
+Suntrust_90,PXD,Q4 2021,"Feb 8, 2022 AMC","Jun 25, 2020 531 days ago",0.76,
+Suntrust_90,FANG,Q4 2021,"Feb 15, 2022 AMC","Jun 25, 2020 531 days ago",0.97,
+Suntrust_90,DVN,Q4 2021,"Feb 15, 2022 AMC","Jun 19, 2020 537 days ago",0.18,
+Suntrust_90,OXY,Q4 2021,"Feb 15, 2022 AMC","Jun 19, 2020 537 days ago",-0.27,
+Suntrust_90,MRO,Q4 2021,"Feb 16, 2022 AMC","Jun 19, 2020 537 days ago",-0.2,
+Suntrust_90,SM,Q4 2021,"Feb 23, 2022 AMC","Jul 31, 2020 495 days ago",-0.36,
+Suntrust_90,MTDR,Q4 2021,"Feb 23, 2022 AMC","Jul 29, 2020 497 days ago",0.19,
+Suntrust_90,CLR,Q4 2021,"Feb 23, 2022 AMC","Jul 1, 2020 525 days ago",-0.02,
+Suntrust_90,OVV,Q4 2021,"Feb 24, 2022 AMC","Jul 29, 2020 497 days ago",-0.05,
+Suntrust_90,APA,Q4 2021,"Feb 24, 2022 AMC","Jul 30, 2020 496 days ago",-0.11,
+Suntrust_90,CDEV,Q4 2021,"Feb 28, 2022 AMC","Jun 25, 2020 531 days ago",-0.07,
+Suntrust_90,EOG,Q4 2021,"Mar 1, 2022 AMC","Jun 19, 2020 537 days ago",0.49,
+Suntrust_90,NOG,Q4 2021,"Mar 2, 2022 BMO","Jul 1, 2020 525 days ago",0.3,
+Suntrust_90,CPE,Q4 2021,"Mar 2, 2022 AMC","May 11, 2020 576 days ago",0.6,
+Suntrust_90,SM,Q1 2022,"May 3, 2022 AMC","Jul 31, 2020 495 days ago",-0.18,
+Suntrust_90,DVN,Q1 2022,"May 3, 2022 AMC","Jun 19, 2020 537 days ago",0.18,
+Suntrust_90,FANG,Q1 2022,"May 3, 2022 AMC","Jun 25, 2020 531 days ago",0.93,
+Suntrust_90,CPE,Q1 2022,"May 4, 2022 AMC","May 11, 2020 576 days ago",0.6,
+Suntrust_90,MTDR,Q1 2022,"May 4, 2022 AMC","Jul 29, 2020 497 days ago",0.22,
+Suntrust_90,PXD,Q1 2022,"May 4, 2022 AMC","Jun 25, 2020 531 days ago",0.92,
+Suntrust_90,MRO,Q1 2022,"May 4, 2022 AMC","Jul 14, 2020 512 days ago",-0.16,
+Suntrust_90,APA,Q1 2022,"May 4, 2022 AMC","Jul 30, 2020 496 days ago",-0.11,
+Suntrust_90,CLR,Q1 2022,"May 4, 2022 AMC","Jul 1, 2020 525 days ago",-0.02,
+Suntrust_90,EOG,Q1 2022,"May 5, 2022 AMC","Jun 19, 2020 537 days ago",0.45,
+Suntrust_90,OXY,Q1 2022,"May 5, 2022 AMC","Jun 19, 2020 537 days ago",-0.27,
+Suntrust_90,CDEV,Q1 2022,"May 9, 2022 AMC","Jun 25, 2020 531 days ago",-0.05,
+Suntrust_90,OVV,Q1 2022,"May 12, 2022 AMC","Jul 29, 2020 497 days ago",0.12,
+Suntrust_90,HRL,Q4 2021,"Dec 9, 2021 BMO",11-Nov-21,0.5,"3,250"
+Suntrust_90,COST,Q1 2022,"Dec 9, 2021 AMC",28-Oct-21,2.9,"48,888"
+Suntrust_90,EDU,Q4 2021,"Dec 13, 2021 BMO","Sep 2, 2021 97 days ago",0.04,"1,145"
+Suntrust_90,HEXO,Q1 2022,"Dec 13, 2021 BMO",10-Nov-21,-0.06,42.98
+Suntrust_90,DRI,Q2 2022,"Dec 17, 2021 BMO",11-Nov-21,1.49,"2,285"
+Suntrust_90,GS,Q4 2021,"Jan 18, 2022 BMO",19-Nov-21,12.5,"12,640"
+Suntrust_90,ABT,Q4 2021,"Jan 26, 2022 BMO",25-Oct-21,1.33,"11,455"
+Suntrust_90,GOOGL,Q4 2021,"Feb 2, 2022 AMC",25-Oct-21,27.56,"58,900"
+Suntrust_90,AMAT,Q1 2022,"Feb 16, 2022 AMC",1-Dec-21,1.9,"6,267"
+Analyst_3428073,,,,,,
+Suntrust_11,,,,,,
+Suntrust_11,,,,,,
+Suntrust_11,,,,,,
+Suntrust_11,,,,,,
+Suntrust_11,,,,,,
+Suntrust_11,,,,,,
+Suntrust_11,,,,,,
+Suntrust_11,,,,,,
+Suntrust_11,,,,,,
+Suntrust_11,,,,,,
+Suntrust_11,,,,,,
+Suntrust_11,,,,,,
+Suntrust_11,,,,,,
+Suntrust_11,,,,,,
+Suntrust_11,,,,,,
+Suntrust_11,,,,,,
+Suntrust_11,,,,,,
+Suntrust_11,,,,,,
+Suntrust_11,,,,,,
+Suntrust_11,,,,,,
+Suntrust_11,,,,,,
+Suntrust_11,,,,,,
+Suntrust_11,,,,,,
+Suntrust_11,,,,,,
+Suntrust_11,,,,,,
+Suntrust_11,,,,,,
+Suntrust_11,,,,,,
+Suntrust_11,,,,,,
+Analyst_7636260,,,,,,
+Jen_F,,,,,,
+Jen_F,,,,,,
+Jen_F,,,,,,
+Jen_F,,,,,,
+Jen_F,,,,,,
+Jen_F,,,,,,
+Jen_F,,,,,,
+Jen_F,,,,,,
+Jen_F,,,,,,
+Jen_F,,,,,,
+Analyst_1150343,,,,,,
+amargari,,,,,,
+Analyst_8972469,,,,,,
+Analyst_7537221,,,,,,
+Analyst_1195762,,,,,,
+Analyst_8385453,,,,,,
+Analyst_7053330,,,,,,
+Analyst_9753755,,,,,,
+Analyst_6222748,,,,,,
+Analyst_5619558,,,,,,
+Analyst_3670895,,,,,,
+Analyst_8237749,,,,,,
+Lyubo,,,,,,
+omni,,,,,,
+Analyst_5692657,,,,,,
+shawncooney,,,,,,
+Analyst_1404862,,,,,,
+Analyst_4687655,,,,,,
+Analyst_8523063,,,,,,
+Mgspooner,,,,,,
+Jefferies_57,,,,,,
+Oppenheimer_66,,,,,,
+Needham_14,,,,,,
+Oppenheimer_11,,,,,,
+Oppenheimer_50,,,,,,
+binartech,,,,,,
+Analyst_5274415,,,,,,
+Analyst_8786923,,,,,,
+Analyst_291253,,,,,,
+Analyst_579194,,,,,,
+riccardo_m,,,,,,
+Finance_bro,,,,,,
+rgstocks,,,,,,
+Cwill,,,,,,
+Nils1975,,,,,,
+Analyst_8776243,,,,,,
+ED_ETT_2109695,,,,,,
+rsreina,,,,,,
+Analyst_1536505,,,,,,
+Knute,,,,,,
+Analyst_8532270,,,,,,
+kerryburrell,,,,,,
+Analyst_6693836,,,,,,
+Analyst_7902306,,,,,,
+Helsou,,,,,,
+Analyst_1371755,,,,,,
+BirdT,,,,,,
+dalarcon00,,,,,,
+tzhang042,,,,,,
+Analyst_2781059,,,,,,
+ABDULAZIZ,,,,,,
+DF_5082802,,,,,,
+Vts,,,,,,
+Analyst_4911374,,,,,,
+hood16,,,,,,
+PolishPrince,,,,,,
+DoctorZed,,,,,,
+analyst_id,Ticker,Quarter,Reports,Published,EPS,Revenue
+Roth_14,FANG,Q4 2021,"Feb 15, 2022 AMC","Oct 19, 2021 50 days ago",4.2,"1,578"
+Roth_14,NOG,Q4 2021,"Mar 2, 2022 BMO",26-Oct-21,1.42,258
+Roth_14,WTI,Q4 2021,"Mar 2, 2022 AMC",25-Oct-21,0.13,129.9
+Roth_14,TALO,Q4 2021,"Mar 16, 2022 AMC","Oct 18, 2021 51 days ago",-0.18,221.8
+Roth_14,FANG,Q1 2022,"May 3, 2022 AMC","Oct 19, 2021 50 days ago",5.5,"1,881"
+Roth_14,,,,,,
+Roth_14,,,,,,
+Roth_14,,,,,,
+Roth_14,,,,,,
+Roth_14,,,,,,
+Roth_14,,,,,,
+Roth_14,,,,,,
+Roth_14,,,,,,
+Roth_14,,,,,,
+Roth_14,,,,,,
+Roth_14,,,,,,
+Roth_14,,,,,,
+Roth_14,,,,,,
+Roth_14,,,,,,
+Roth_14,,,,,,
+Roth_14,PFSW,Q2 2021,"Dec 10, 2021 BMO","Oct 19, 2021 50 days ago",0.05,83.8
+benjenholdings,GRUB,Q3 2021,"Dec 10, 2021 AMC",26-Oct-21,-0.35,581.67
+benjenholdings,EDU,Q4 2021,"Dec 13, 2021 BMO",3-Dec-21,0.05,"1,100"
+benjenholdings,TAL,Q2 2022,"Dec 13, 2021 BMO",27-Oct-21,0.03,"1,375"
+benjenholdings,JOBS,Q3 2021,"Dec 13, 2021 BMO",10-Nov-21,0.56,141.04
+benjenholdings,CYD,Q3 2021,"Dec 13, 2021 BMO",10-Nov-21,0.44,622.26
+benjenholdings,TCOM,Q3 2021,"Dec 15, 2021 AMC",23-Nov-21,0.12,865.02
+benjenholdings,AXP,Q4 2021,"Jan 20, 2022 BMO",27-Oct-21,2,"11,638"
+benjenholdings,FB,Q4 2021,"Feb 2, 2022 AMC",27-Oct-21,3.95,"33,115"
+benjenholdings,SNAP,Q4 2021,"Feb 8, 2022 AMC",27-Oct-21,0.16,"1,250"
+benjenholdings,SRI,Q4 2021,"Mar 2, 2022 AMC",27-Oct-21,-0.1,194.94
+benjenholdings,PNTG,Q4 2021,"Mar 9, 2022 BMO",2-Nov-21,0.25,115.06
+benjenholdings,BLDP,Q4 2021,"Mar 9, 2022 AMC",9-Nov-21,-0.08,29.8
+benjenholdings,HRL,Q4 2021,"Dec 9, 2021 BMO",5-Dec-21,0.51,"3,237"
+benjenholdings,FIZZ,Q2 2022,"Dec 9, 2021 BMO",5-Dec-21,0.52,291.52
+BillB1210,HOV,Q4 2021,"Dec 9, 2021 BMO",8-Dec-21,9.05,711
+BillB1210,LQDT,Q4 2021,"Dec 9, 2021 BMO",5-Dec-21,0.26,61.98
+BillB1210,CIEN,Q4 2021,"Dec 9, 2021 BMO",5-Dec-21,0.87,"1,032"
+BillB1210,CMTL,Q1 2022,"Dec 9, 2021 AMC",5-Dec-21,-0.12,119.54
+BillB1210,CHWY,Q3 2021,"Dec 9, 2021 AMC",5-Dec-21,-0.02,"2,249"
+BillB1210,MTN,Q1 2022,"Dec 9, 2021 AMC",5-Dec-21,-3.41,220.51
+BillB1210,AVGO,Q4 2021,"Dec 9, 2021 AMC",5-Dec-21,7.76,"7,375"
+BillB1210,COST,Q1 2022,"Dec 9, 2021 AMC",5-Dec-21,2.79,"54,800"
+BillB1210,ORCL,Q2 2022,"Dec 9, 2021 AMC",5-Dec-21,1.15,"10,278"
+BillB1210,LULU,Q3 2021,"Dec 9, 2021 AMC",5-Dec-21,1.62,"1,480"
+BillB1210,MESA,Q4 2021,"Dec 9, 2021 AMC",5-Dec-21,0.14,147.95
+BillB1210,PFSW,Q2 2021,"Dec 10, 2021 BMO",7-Nov-21,0.06,83.65
+BillB1210,JOUT,Q4 2021,"Dec 10, 2021 BMO",5-Dec-21,0.81,172.83
+BillB1210,GRUB,Q3 2021,"Dec 10, 2021 AMC",25-Oct-21,-0.12,577.67
+BillB1210,EDU,Q4 2021,"Dec 13, 2021 BMO","Oct 24, 2021 45 days ago",0.05,"1,223"
+BillB1210,TAL,Q2 2022,"Dec 13, 2021 BMO",30-Oct-21,0.02,"1,389"
+BillB1210,JOBS,Q3 2021,"Dec 13, 2021 BMO",7-Nov-21,0.64,140.94
+BillB1210,CYD,Q3 2021,"Dec 13, 2021 BMO",7-Nov-21,0.45,625.26
+BillB1210,TCOM,Q3 2021,"Dec 15, 2021 AMC",20-Nov-21,0.17,887.02
+BillB1210,JOUT,Q1 2022,"Feb 4, 2022 BMO",5-Dec-21,1.6,164.46
+BillB1210,CCJ,Q4 2021,"Feb 11, 2022 BMO","Oct 1, 2021 68 days ago",0.01,301.14
+BillB1210,DISH,Q4 2021,"Feb 23, 2022 BMO",4-Nov-21,0.9,"4,472"
+BillB1210,GSM,Q4 2021,"Feb 28, 2022 AMC",13-Nov-21,-0.05,440
+BillB1210,SFL,Q4 2021,"Mar 1, 2022 BMO",14-Nov-21,0.29,143.5
+BillB1210,PNTG,Q4 2021,"Mar 9, 2022 BMO",12-Nov-21,0.24,112.76
+BillB1210,FREQ,Q4 2021,"Mar 30, 2022 BMO",20-Nov-21,-0.3,29.3
+BillB1210,ARMK,Q1 2022,"Feb 8, 2022 BMO","May 11, 2021 211 days ago",0.44,"3,754"
+BillB1210,WMB,Q4 2021,"Feb 16, 2022 AMC","Aug 2, 2021 128 days ago",0.33,"2,465"
+BillB1210,CHWY,Q3 2021,"Dec 9, 2021 AMC",7-Dec-21,-0.04,"2,219"
+Analyst_8049250,EDU,Q4 2021,"Dec 13, 2021 BMO","Sep 7, 2021 92 days ago",0.06,"1,148"
+Medic2525,PYPL,Q4 2021,"Feb 2, 2022 AMC",2-Dec-21,1.31,"7,106"
+Medic2525,AOSL,Q2 2022,"Feb 9, 2022 AMC",2-Dec-21,1.07,190
+Medic2525,FIVE,Q4 2021,"Mar 23, 2022 AMC",3-Dec-21,2.51,"1,058"
+Analyst_4544960,,,,,,
+R_C12R,BIIB,Q4 2021,"Jan 27, 2022 BMO",7-Dec-21,3.67,2.7
+R_C12R,VRTX,Q4 2021,"Feb 2, 2022 AMC",3-Nov-21,3.36,2.1
+R_C12R,MA,Q4 2021,"Feb 3, 2022 BMO","Apr 16, 2020 601 days ago",2.42,"5,192"
+R_C12R,AMGN,Q4 2021,"Feb 3, 2022 AMC",3-Nov-21,3.86,6.9
+R_C12R,FIS,Q4 2021,"Feb 8, 2022 BMO","Apr 16, 2020 601 days ago",1.88,"3,843"
+R_C12R,PAYC,Q4 2021,"Feb 8, 2022 AMC","Jul 10, 2020 516 days ago",1.11,265.4
+R_C12R,GILD,Q4 2021,"Feb 8, 2022 AMC",18-Nov-21,1.65,6.4
+GHS_21,FISV,Q4 2021,"Feb 9, 2022 BMO","Apr 16, 2020 601 days ago",1.74,"4,523"
+Cantor_22,CDAY,Q4 2021,"Feb 9, 2022 AMC","Jul 10, 2020 516 days ago",0.17,268.4
+Cantor_22,ALNY,Q4 2021,"Feb 10, 2022 BMO",28-Oct-21,-1.38,216.4
+Cantor_22,REGN,Q4 2021,"Feb 10, 2022 BMO",9-Nov-21,19.79,4.3
+Cantor_22,GPN,Q4 2021,"Feb 16, 2022 BMO","Apr 16, 2020 601 days ago",2.41,"2,150"
+Cantor_22,AGIO,Q4 2021,"Feb 17, 2022 BMO","Nov 3, 2021 35 days ago",-1.48,2.1
+Cantor_22,INCY,Q4 2021,"Feb 17, 2022 BMO",2-Nov-21,1.09,837.3
+Cantor_22,EPAM,Q4 2021,"Feb 17, 2022 BMO","Jul 10, 2020 516 days ago",1.95,862.4
+Cantor_22,FVRR,Q4 2021,"Feb 23, 2022 BMO","Jul 10, 2020 516 days ago",0.05,49.9
+Cantor_22,ICPT,Q4 2021,"Feb 24, 2022 BMO",3-Nov-21,-0.76,90.1
+Cantor_22,MELI,Q4 2021,"Feb 24, 2022 AMC","Apr 16, 2020 601 days ago",-0.56,894
+Cantor_22,ZIOP,Q4 2021,"Feb 24, 2022 AMC","Nov 10, 2021 28 days ago",-0.09,0
+Cantor_22,XNCR,Q4 2021,"Mar 1, 2022 AMC",10-Nov-21,0.94,119.7
+Cantor_22,ARNA,Q4 2021,"Mar 1, 2022 AMC","Nov 8, 2021 30 days ago",-2.38,0
+Cantor_22,SRPT,Q4 2021,"Mar 2, 2022 AMC",4-Nov-21,-0.4,204
+Cantor_22,PTCT,Q4 2021,"Mar 2, 2022 AMC",2-Nov-21,-1.54,135.5
+Cantor_22,GBT,Q4 2021,"Mar 2, 2022 AMC",5-Nov-21,-1.07,56.2
+Cantor_22,PBYI,Q4 2021,"Mar 3, 2022 AMC","Aug 17, 2021 113 days ago",-0.26,59.7
+Cantor_22,UPWK,Q4 2021,"Mar 3, 2022 AMC","Jul 10, 2020 516 days ago",0.02,103
+Cantor_22,FATE,Q4 2021,"Mar 7, 2022 AMC",8-Nov-21,-0.59,14.9
+Cantor_22,TGTX,Q4 2021,"Mar 9, 2022 BMO",9-Nov-21,-0.68,3.2
+Cantor_22,SPPI,Q4 2021,"Mar 9, 2022 AMC","Nov 11, 2021 27 days ago",-0.21,0
+Cantor_22,ZM,Q4 2022,"Mar 9, 2022 AMC","Jul 10, 2020 516 days ago",0.51,709.7
+Cantor_22,VSTM,Q4 2021,"Mar 15, 2022 AMC","Nov 8, 2021 30 days ago",-0.12,0
+Cantor_22,RPAY,Q4 2021,"Mar 21, 2022 AMC","Jul 10, 2020 516 days ago",0.13,46.4
+Cantor_22,ARVN,Q4 2021,"Mar 29, 2022 BMO",3-Nov-21,-0.98,10.2
+Cantor_22,ASND,Q4 2021,"Apr 6, 2022 AMC",17-Nov-21,-2.17,1.8
+Cantor_22,VRTX,Q4 2021,"Feb 2, 2022 AMC",3-Nov-21,2.72,
+Cantor_22,NBIX,Q4 2021,"Feb 8, 2022 AMC","Aug 4, 2021 126 days ago",-0.82,
+Cantor_22,GILD,Q4 2021,"Feb 8, 2022 AMC",29-Oct-21,1.45,
+Cantor_22,ALNY,Q4 2021,"Feb 10, 2022 BMO",28-Oct-21,-1.73,
+Cantor_22,ICPT,Q4 2021,"Feb 24, 2022 BMO",3-Nov-21,-1.11,
+Cantor_22,TBPH,Q4 2021,"Feb 28, 2022 AMC",4-Nov-21,-0.66,
+Cantor_22,IONS,Q4 2021,"Mar 1, 2022 BMO",4-Nov-21,-0.16,191
+Cantor_22,ARNA,Q4 2021,"Mar 1, 2022 AMC",5-Nov-21,-2.3,
+Cantor_22,ACAD,Q4 2021,"Mar 1, 2022 AMC","Aug 5, 2021 125 days ago",-0.23,
+Needham_45,LXRX,Q4 2021,"Mar 3, 2022 AMC",4-Nov-21,-0.19,
+Needham_45,MRNA,Q4 2021,"Mar 9, 2022 BMO",4-Nov-21,9.38,
+Needham_45,CARA,Q4 2021,"Mar 10, 2022 AMC",9-Nov-21,-0.61,
+Needham_45,CRSP,Q4 2021,"Mar 11, 2022 AMC","Apr 28, 2021 224 days ago",-1.57,
+Needham_45,IONS,Q1 2022,"May 4, 2022 BMO",4-Nov-21,,184
+Needham_45,IONS,Q2 2022,"Aug 9, 2022 BMO",4-Nov-21,,204
+Needham_45,IONS,Q3 2022,"Nov 9, 2022 BMO",4-Nov-21,,222
+Needham_45,IONS,Q4 2022,"Feb 28, 2023 BMO",4-Nov-21,,231
+Needham_45,AVGO,Q4 2021,"Dec 9, 2021 AMC",29-Nov-21,7.82,"7,365"
+Needham_45,COST,Q1 2022,"Dec 9, 2021 AMC",6-Dec-21,2.75,"55,100"
+Needham_45,ORCL,Q2 2022,"Dec 9, 2021 AMC",29-Nov-21,1.15,"10,212"
+Needham_45,LULU,Q3 2021,"Dec 9, 2021 AMC",6-Dec-21,1.62,"1,472"
+Needham_45,GRUB,Q3 2021,"Dec 10, 2021 AMC",25-Nov-21,-0.2,577
+Needham_45,,,,,,
+Needham_45,,,,,,
+Needham_45,,,,,,
+Needham_45,,,,,,
+Needham_45,,,,,,
+Analyst_1561047,,,,,,
+Analyst_5060911,,,,,,
+Needham_5,,,,,,
+Analyst_5883186,,,,,,
+Analyst_5883186,,,,,,
+Analyst_5883186,,,,,,
+Analyst_5883186,,,,,,
+Analyst_5883186,,,,,,
+Analyst_5883186,,,,,,
+Analyst_5883186,,,,,,
+Analyst_5883186,,,,,,
+Analyst_5883186,,,,,,
+Analyst_5883186,,,,,,
+Analyst_5883186,,,,,,
+Analyst_5883186,HOV,Q4 2021,"Dec 9, 2021 BMO","Sep 9, 2021 90 days ago",2.8,725
+Analyst_5883186,PFSW,Q2 2021,"Dec 10, 2021 BMO",26-Oct-21,0.06,83.52
+Analyst_5883186,GRUB,Q3 2021,"Dec 10, 2021 AMC",25-Oct-21,-0.1,581.67
+Analyst_5883186,EDU,Q4 2021,"Dec 13, 2021 BMO",25-Oct-21,0.04,"1,145"
+Analyst_5883186,TAL,Q2 2022,"Dec 13, 2021 BMO",27-Oct-21,0.03,"1,380"
+Analyst_5883186,JOBS,Q3 2021,"Dec 13, 2021 BMO",24-Nov-21,0.61,139.44
+Analyst_5883186,CYD,Q3 2021,"Dec 13, 2021 BMO",24-Nov-21,0.45,620.26
+Analyst_5883186,TCOM,Q3 2021,"Dec 15, 2021 AMC",23-Nov-21,0.08,850.02
+Analyst_5883186,CNMD,Q4 2021,"Jan 26, 2022 AMC",27-Oct-21,1.13,284.66
+Analyst_5883186,NETI,Q4 2021,"Jan 31, 2022 BMO",23-Nov-21,0.37,40
+Analyst_5883186,MHO,Q4 2021,"Feb 3, 2022 BMO",27-Oct-21,3.49,"1,046"
+Analyst_5883186,TLRY,Q2 2022,"Feb 16, 2022 BMO",23-Nov-21,-0.16,225.26
+Analyst_5883186,CSV,Q4 2021,"Feb 16, 2022 AMC",27-Oct-21,0.65,86.75
+Analyst_5883186,RIG,Q4 2021,"Feb 21, 2022 AMC",1-Nov-21,-0.14,668.15
+Momocow,KRA,Q4 2021,"Feb 22, 2022 AMC",27-Oct-21,0.68,442.17
+Catooch,NM,Q4 2021,"Feb 23, 2022 BMO",23-Nov-21,2.25,150
+Catooch,MESO,Q2 2022,"Feb 23, 2022 AMC",23-Nov-21,-0.17,2.6
+Catooch,VMW,Q4 2022,"Feb 24, 2022 AMC",23-Nov-21,1.9,"3,554"
+Catooch,DELL,Q4 2022,"Feb 24, 2022 AMC",23-Nov-21,2.01,"25,624"
+Catooch,SPOK,Q4 2021,"Mar 2, 2022 AMC",27-Oct-21,-0.02,35
+Catooch,PLAN,Q4 2022,"Mar 2, 2022 AMC",23-Nov-21,-0.08,155.21
+Catooch,SNOW,Q4 2022,"Mar 2, 2022 AMC",2-Dec-21,0.04,376.86
+Catooch,GPS,Q4 2021,"Mar 3, 2022 AMC",23-Nov-21,0.58,"5,161"
+Catooch,DKS,Q4 2021,"Mar 8, 2022 BMO",23-Nov-21,2.5,"3,164"
+Catooch,ORN,Q4 2021,"Mar 10, 2022 AMC",27-Oct-21,0.05,153.82
+Catooch,GME,Q4 2021,"Mar 24, 2022 AMC",23-Nov-21,1.07,"2,034"
+Catooch,AXAS,Q4 2021,"May 7, 2022 AMC",23-Nov-21,-0.11,16.26
+Catooch,LEN,Q4 2021,"Dec 15, 2021 AMC","Oct 20, 2021 49 days ago",4.18,"8,477"
+Catooch,KBH,Q4 2021,"Jan 12, 2022 AMC","Aug 23, 2021 107 days ago",2.07,"1,878"
+Catooch,IP,Q4 2021,"Jan 27, 2022 BMO",2-Dec-21,0.88,
+Catooch,PKG,Q4 2021,"Jan 31, 2022 AMC",28-Oct-21,2.17,
+Catooch,PHM,Q4 2021,"Feb 1, 2022 BMO","Oct 20, 2021 49 days ago",2.66,"4,661"
+Catooch,WRK,Q1 2022,"Feb 3, 2022 BMO",10-Nov-21,0.63,
+Catooch,LPX,Q4 2021,"Feb 15, 2022 BMO",3-Nov-21,1.63,823.44
+Catooch,GPK,Q4 2021,"Feb 17, 2022 BMO",27-Oct-21,0.3,
+Catooch,WRK,Q2 2022,"May 4, 2022 BMO",10-Nov-21,1.11,
+Catooch,WRK,Q3 2022,"Aug 4, 2022 BMO",10-Nov-21,1.52,
+Catooch,WRK,Q4 2022,"Nov 10, 2022 BMO",10-Nov-21,1.59,
+Catooch,LEN,Q4 2021,"Dec 15, 2021 AMC","Nov 19, 2020 384 days ago",2.61,
+Catooch,KBH,Q4 2021,"Jan 12, 2022 AMC","Sep 23, 2020 441 days ago",1.64,
+Catooch,DHI,Q1 2022,"Jan 25, 2022 BMO","Nov 19, 2020 384 days ago",2.66,
+Catooch,PHM,Q4 2021,"Feb 1, 2022 BMO","Nov 19, 2020 384 days ago",1.65,
+Catooch,SUM,Q4 2021,"Feb 9, 2022 AMC","Feb 23, 2021 287 days ago",0.21,505
+GHS_41,MLM,Q4 2021,"Feb 15, 2022 BMO","Feb 11, 2021 299 days ago",2.39,"1,209"
+GHS_41,VMC,Q4 2021,"Feb 17, 2022 BMO","Feb 17, 2021 293 days ago",1.23,"1,248"
+GHS_41,FRTA,Q4 2021,"Mar 30, 2022 AMC","Feb 22, 2021 289 days ago",0.11,386
+GHS_41,DHI,Q2 2022,"Apr 21, 2022 BMO","Nov 19, 2020 384 days ago",2.31,
+GHS_41,VMC,Q1 2022,"May 3, 2022 BMO","Feb 17, 2021 293 days ago",0.57,"1,092"
+GHS_41,MLM,Q1 2022,"May 3, 2022 BMO","Feb 11, 2021 299 days ago",0.98,"1,023"
+GHS_41,DHI,Q3 2022,"Jul 21, 2022 BMO","Nov 19, 2020 384 days ago",2.29,
+GHS_41,MLM,Q2 2022,"Aug 2, 2022 BMO","Feb 11, 2021 299 days ago",4.17,"1,385"
+GHS_41,VMC,Q2 2022,"Aug 3, 2022 BMO","Feb 17, 2021 293 days ago",1.91,"1,430"
+GHS_41,MLM,Q3 2022,"Nov 1, 2022 BMO","Feb 11, 2021 299 days ago",4.6,"1,460"
+GHS_41,VMC,Q3 2022,"Nov 2, 2022 BMO","Feb 17, 2021 293 days ago",2,"1,510"
+GHS_41,DHI,Q4 2022,"Nov 8, 2022 BMO","Nov 19, 2020 384 days ago",2.57,
+Suntrust_109,LEN,Q4 2021,"Dec 15, 2021 AMC","Jun 15, 2020 541 days ago",1.81,
+Suntrust_109,KBH,Q4 2021,"Jan 12, 2022 AMC","Feb 26, 2020 651 days ago",1.62,
+Suntrust_109,PHM,Q4 2021,"Feb 1, 2022 BMO","May 12, 2020 575 days ago",1.03,
+Suntrust_109,SUM,Q4 2021,"Feb 9, 2022 AMC","Jul 9, 2020 517 days ago",,504
+Suntrust_109,MLM,Q4 2021,"Feb 15, 2022 BMO","Jul 9, 2020 517 days ago",1.69,"1,087"
+Suntrust_109,VMC,Q4 2021,"Feb 17, 2022 BMO","Jul 9, 2020 517 days ago",0.92,"1,148"
+Suntrust_109,FRTA,Q4 2021,"Mar 30, 2022 AMC","Jul 27, 2020 498 days ago",,386
+Suntrust_109,KBH,Q4 2021,"Jan 12, 2022 AMC","Jan 13, 2021 329 days ago",1.59,
+Suntrust_109,IP,Q4 2021,"Jan 27, 2022 BMO","Apr 29, 2021 222 days ago",1.65,
+Suntrust_109,PKG,Q4 2021,"Jan 31, 2022 AMC","Apr 27, 2021 224 days ago",1.76,
+Suntrust_109,WRK,Q1 2022,"Feb 3, 2022 BMO","Jan 29, 2021 313 days ago",1.16,
+Suntrust_109,LPX,Q4 2021,"Feb 15, 2022 BMO","Jun 9, 2021 182 days ago",2.07,885.15
+Suntrust_109,GPK,Q4 2021,"Feb 17, 2022 BMO","Apr 12, 2021 240 days ago",0.41,
+Suntrust_109,WRK,Q2 2022,"May 4, 2022 BMO","Jan 29, 2021 313 days ago",1.07,
+Suntrust_109,WRK,Q3 2022,"Aug 4, 2022 BMO","Jan 29, 2021 313 days ago",1.21,
+Suntrust_109,WRK,Q4 2022,"Nov 10, 2022 BMO","Jan 29, 2021 313 days ago",1.26,
+Suntrust_109,FIZZ,Q2 2022,"Dec 9, 2021 BMO","Mar 5, 2021 278 days ago",0.52,283.76
+Suntrust_109,CIEN,Q4 2021,"Dec 9, 2021 BMO","Jan 27, 2021 315 days ago",0.92,"1,036"
+Suntrust_38,MTN,Q1 2022,"Dec 9, 2021 AMC","Apr 22, 2021 230 days ago",-2.8,252.26
+Suntrust_38,GRUB,Q3 2021,"Dec 10, 2021 AMC","Nov 4, 2020 399 days ago",0.28,560.13
+Suntrust_38,TTC,Q4 2021,"Dec 15, 2021 BMO","Aug 4, 2021 126 days ago",0.65,868.43
+Suntrust_38,MU,Q1 2022,"Dec 20, 2021 AMC","Aug 24, 2021 106 days ago",2.65,"8,675"
+Suntrust_38,FDS,Q1 2022,"Dec 21, 2021 BMO","Apr 21, 2021 231 days ago",2.97,407.66
+Suntrust_38,CTAS,Q2 2022,"Dec 23, 2021 BMO","Jun 22, 2021 169 days ago",2.62,"1,929"
+Suntrust_38,C,Q4 2021,"Jan 14, 2022 BMO","May 6, 2021 216 days ago",1.52,"17,099"
+Suntrust_38,BAC,Q4 2021,"Jan 18, 2022 BMO","Mar 3, 2021 280 days ago",0.66,"20,975"
+Analyst_2906477,RJF,Q1 2022,"Jan 26, 2022 AMC","Aug 11, 2021 119 days ago",1.66,"2,564"
+Analyst_1802116,LRCX,Q2 2022,"Jan 26, 2022 AMC","Mar 31, 2021 252 days ago",6.31,"3,545"
+suburbanaces,AZPN,Q2 2022,"Jan 26, 2022 AMC","Jul 27, 2021 134 days ago",1.25,190.75
+Ocelogic,ALK,Q4 2021,"Jan 27, 2022 BMO","Apr 5, 2021 247 days ago",0.96,"1,821"
+Analyst_389178,CAT,Q4 2021,"Jan 27, 2022 BMO","Feb 2, 2021 309 days ago",2.24,"12,500"
+Analyst_6452210,KNX,Q4 2021,"Feb 1, 2022 BMO","Aug 4, 2021 126 days ago",0.99,"1,346"
+jean_acciari,RACE,Q4 2021,"Feb 1, 2022 BMO","Mar 30, 2021 253 days ago",1.42,"1,340"
+Analyst_3358941,MKSI,Q4 2021,"Feb 1, 2022 AMC","Mar 31, 2021 252 days ago",2.26,664.18
+Analyst_539247,EA,Q3 2022,"Feb 1, 2022 AMC","Sep 10, 2021 89 days ago",3.35,"2,512"
+GHS_24,AAPL,Q1 2022,"Feb 1, 2022 AMC","Aug 12, 2021 118 days ago",1.83,"117,066"
+GHS_24,SMG,Q1 2022,"Feb 2, 2022 BMO","Jul 27, 2021 134 days ago",-0.54,726.5
+GHS_24,TMO,Q4 2021,"Feb 2, 2022 BMO","Jul 15, 2021 146 days ago",4.7,"8,630"
+GHS_24,FB,Q4 2021,"Feb 2, 2022 AMC","Mar 18, 2021 265 days ago",3.87,"32,806"
+GHS_24,TSLA,Q4 2021,"Feb 2, 2022 AMC","Jun 30, 2021 161 days ago",1.45,"14,420"
+GHS_24,TDY,Q4 2021,"Feb 3, 2022 BMO","Feb 16, 2021 295 days ago",3.29,863.93
+GHS_24,BR,Q2 2022,"Feb 3, 2022 BMO","Apr 2, 2021 250 days ago",0.91,"1,135"
+GHS_24,XEL,Q4 2021,"Feb 3, 2022 BMO","Aug 3, 2021 127 days ago",0.6,"2,724"
+GHS_24,ABMD,Q3 2022,"Feb 3, 2022 BMO","Feb 15, 2021 296 days ago",1.31,260.42
+GHS_24,WRK,Q1 2022,"Feb 3, 2022 BMO","Apr 5, 2021 247 days ago",1.06,"4,687"
+Dominantstock,ALGN,Q4 2021,"Feb 3, 2022 AMC","Jul 5, 2021 156 days ago",2.69,949.52
+Dominantstock,AMZN,Q4 2021,"Feb 3, 2022 AMC","Jul 6, 2021 155 days ago",14.86,"149,012"
+Dominantstock,PFSI,Q4 2021,"Feb 3, 2022 AMC","Mar 10, 2021 273 days ago",3.6,807.19
+Dominantstock,BERY,Q1 2022,"Feb 4, 2022 BMO","Mar 10, 2021 273 days ago",1.4,"3,125"
+Dominantstock,CNC,Q4 2021,"Feb 8, 2022 BMO","Mar 2, 2021 281 days ago",0.74,"29,319"
+Dominantstock,ALLT,Q4 2021,"Feb 8, 2022 BMO","Jul 12, 2021 149 days ago",0.05,43.21
+Dominantstock,ARW,Q4 2021,"Feb 8, 2022 BMO","Feb 19, 2021 292 days ago",3.09,"8,619"
+Dominantstock,HCSG,Q4 2021,"Feb 8, 2022 BMO","Mar 9, 2021 274 days ago",0.33,426.34
+Dominantstock,PRO,Q4 2021,"Feb 8, 2022 AMC","Jun 3, 2021 188 days ago",-0.13,65.17
+Dominantstock,SNAP,Q4 2021,"Feb 8, 2022 AMC","Jun 4, 2021 187 days ago",0.21,"1,282"
+Dominantstock,SPOT,Q4 2021,"Feb 9, 2022 BMO","Mar 11, 2021 272 days ago",-0.46,"3,105"
+Dominantstock,RDWR,Q4 2021,"Feb 9, 2022 BMO","Apr 13, 2021 239 days ago",0.24,73.3
+Dominantstock,MTRX,Q2 2022,"Feb 9, 2022 AMC","Feb 10, 2021 301 days ago",0.17,200.77
+Dominantstock,PTON,Q2 2022,"Feb 9, 2022 AMC","Jul 21, 2021 140 days ago",0.16,"1,363"
+Dominantstock,YELP,Q4 2021,"Feb 9, 2022 AMC","Feb 12, 2021 299 days ago",0.12,271.61
+Dominantstock,TARO,Q3 2022,"Feb 9, 2022 AMC","Jun 14, 2021 177 days ago",1.04,151.8
+Dominantstock,BGCP,Q4 2021,"Feb 10, 2022 BMO","Jun 1, 2021 190 days ago",0.19,546.9
+Dominantstock,PRLB,Q4 2021,"Feb 10, 2022 BMO","May 21, 2021 201 days ago",0.51,124.47
+Dominantstock,ICE,Q4 2021,"Feb 10, 2022 BMO","Sep 6, 2021 93 days ago",1.28,"1,724"
+Dominantstock,TSN,Q1 2022,"Feb 10, 2022 BMO","Mar 4, 2021 279 days ago",1.65,"11,012"
+Dominantstock,TEVA,Q4 2021,"Feb 10, 2022 BMO","Mar 23, 2021 260 days ago",0.77,"4,424"
+Dominantstock,PRIM,Q4 2021,"Mar 1, 2022 AMC",18-Nov-21,0.54,888.94
+Dominantstock,CAL,Q4 2021,"Mar 15, 2022 AMC",16-Nov-21,89,636.9
+Dominantstock,NFLX,Q4 2021,"Jan 18, 2022 AMC","Oct 20, 2021 49 days ago",0.8,"7,712"
+Dominantstock,EA,Q3 2022,"Feb 1, 2022 AMC",8-Nov-21,3.17,"2,625"
+Dominantstock,SPOT,Q4 2021,"Feb 9, 2022 BMO",28-Oct-21,,"2,638"
+Dominantstock,TTWO,Q3 2022,"Feb 9, 2022 AMC",8-Nov-21,1.46,894
+Dominantstock,ZNGA,Q4 2021,"Feb 9, 2022 AMC",10-Nov-21,,725
+Dominantstock,YELP,Q4 2021,"Feb 9, 2022 AMC","Feb 10, 2021 301 days ago",,278
+Dominantstock,NLSN,Q4 2021,"Feb 10, 2022 BMO","Oct 29, 2021 40 days ago",0.34,894
+Dominantstock,ATVI,Q4 2021,"Feb 10, 2022 AMC","Nov 3, 2021 35 days ago",1.31,"2,879"
+Dominantstock,CRTO,Q4 2021,"Feb 16, 2022 BMO",4-Nov-21,1.11,273
+Dominantstock,MGNI,Q4 2021,"Feb 23, 2022 AMC",29-Nov-21,,140
+Dominantstock,ROKU,Q4 2021,"Feb 24, 2022 AMC",16-Nov-21,,953
+Dominantstock,RBLX,Q4 2021,"Feb 24, 2022 AMC",26-Oct-21,,719.6
+Dominantstock,MGNI,Q1 2022,"May 4, 2022 AMC",29-Nov-21,,102
+Dominantstock,ZNGA,Q1 2022,"May 4, 2022 AMC",10-Nov-21,,706
+Dominantstock,EA,Q4 2022,"May 10, 2022 AMC",8-Nov-21,1.42,"1,813"
+Dominantstock,ROKU,Q1 2022,"May 11, 2022 AMC",16-Nov-21,,792
+Dominantstock,TTWO,Q4 2022,"May 18, 2022 AMC",8-Nov-21,1.03,877
+Dominantstock,MGNI,Q2 2022,"Aug 2, 2022 AMC",29-Nov-21,,128
+Dominantstock,ZNGA,Q2 2022,"Aug 3, 2022 AMC",10-Nov-21,,740
+Dominantstock,ROKU,Q2 2022,"Aug 10, 2022 AMC",16-Nov-21,,896
+Dominantstock,ZNGA,Q3 2022,"Nov 2, 2022 AMC",10-Nov-21,,755
+Dominantstock,MGNI,Q3 2022,"Nov 2, 2022 AMC",29-Nov-21,,130
+Dominantstock,ROKU,Q3 2022,"Nov 9, 2022 AMC",16-Nov-21,,959
+Dominantstock,ZNGA,Q4 2022,"Feb 8, 2023 AMC",10-Nov-21,,814
+Dominantstock,MGNI,Q4 2022,"Feb 22, 2023 AMC",29-Nov-21,,167
+Dominantstock,ROKU,Q4 2022,"Feb 23, 2023 AMC",16-Nov-21,,"1,348"
+Dominantstock,,,,,,
+Dominantstock,,,,,,
+Analyst_398345,,,,,,
+Analyst_398345,,,,,,
+Analyst_398345,,,,,,
+andluger,,,,,,
+Suntrust_106,,,,,,
+Suntrust_106,,,,,,
+Suntrust_106,,,,,,
+Suntrust_106,,,,,,
+Suntrust_106,,,,,,
+Suntrust_106,,,,,,
+Suntrust_106,,,,,,
+Suntrust_106,,,,,,
+Suntrust_106,,,,,,
+Suntrust_106,,,,,,
+Suntrust_106,,,,,,
+Suntrust_106,,,,,,
+Suntrust_106,,,,,,
+Suntrust_106,,,,,,
+Suntrust_106,,,,,,
+Suntrust_106,,,,,,
+Suntrust_106,,,,,,
+Suntrust_106,,,,,,
+Suntrust_106,,,,,,
+Suntrust_106,,,,,,
+Suntrust_106,,,,,,
+Suntrust_106,,,,,,
+Suntrust_106,,,,,,
+Suntrust_106,,,,,,
+Suntrust_106,,,,,,
+Suntrust_106,,,,,,
+Suntrust_106,,,,,,
+Katzup,,,,,,
+Spekoliunas,,,,,,
+serpyou,,,,,,
+Suntrust_46,,,,,,
+shendricks,,,,,,
+Old_Mayor,,,,,,
+Natallia,,,,,,
+Bill_Maurer,,,,,,
+AAFED,,,,,,
+JohnCart,,,,,,
+Analyst_8790220,,,,,,
+mikesmurf,,,,,,
+larrylai,,,,,,
+PM,,,,,,
+Analyst_7579453,,,,,,
+panda_w,,,,,,
+loopie,,,,,,
+dalton,,,,,,
+BaooJee,,,,,,
+Analyst_1839435,,,,,,
+ProspectPark,,,,,,
+Analyst_8583071,,,,,,
+Analyst_5389127,,,,,,
+Analyst_2858786,,,,,,
+Showkz99,,,,,,
+Analyst_1486360,,,,,,
+Analyst_6414753,,,,,,
+Analyst_1274826,,,,,,
+Analyst_3031608,,,,,,
+Analyst_8367894,,,,,,
+Analyst_5277575,,,,,,
+Analyst_883247,,,,,,
+Surbiton,,,,,,
+Analyst_3706437,,,,,,
+bdc32,,,,,,
+Cyflops,,,,,,
+Megaannum,,,,,,
+Plu,,,,,,
+mdainvest,,,,,,
+Neil_Martin,,,,,,
+UdallTechStrat,,,,,,
+zsljulius,,,,,,
+Parmigianino,,,,,,
+Damian,,,,,,
+yiss217,,,,,,
+r2theex,,,,,,
+Aaronbobby,,,,,,
+pele85,,,,,,
+Tappa69,,,,,,
+Analyst_334150,,,,,,
+Star,,,,,,
+Maddy1214,,,,,,
+Analyst_4898690,,,,,,
+Hikerd,,,,,,
+wlp3rd,,,,,,
+arpan69,,,,,,
+Analyst_9387580,,,,,,
+francescozunino,,,,,,
+rama2050,,,,,,
+jfffrmm,,,,,,
+Aitvaras,,,,,,
+Analyst_3713698,,,,,,
+Analyst_904827,,,,,,
